@@ -1,5 +1,6 @@
-DPPL
-====
+Digital Peer Publishing Lizenz
+==============================
+
 .. toctree::
    :maxdepth: 1
 

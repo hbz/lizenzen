@@ -10,3 +10,4 @@ Lizenzen
     $ pip install -r requirements.txt
     $ make dirhtml
     $ python3 -m http.server --directory _build/dirhtml/
+    $ rsync -avn -e ssh _build/dirhtml/ ojs:/srv/www/lizenzen.hbz-nrw.de/lizenzen/

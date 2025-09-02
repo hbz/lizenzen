@@ -30,7 +30,7 @@ language = 'de'
 html_title = "Lizenzen"
 html_theme = 'furo'
 html_static_path = ['_static']
-html_logo = "dipp-logo.png"
+html_logo = "hbz-Logo-rgb-ohne-Claim.svg"
 html_css_files = [
   'css/custom.css',
   'https://fonts.pubsys.hbz-nrw.de/hbz-cd-2024/hbz-cd-2024.css'

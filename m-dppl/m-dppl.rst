@@ -1,5 +1,6 @@
-m-DPPL
-======
+Modulare Digital Peer Publishing Lizenz
+=======================================
+
 .. toctree::
    :maxdepth: 1
 

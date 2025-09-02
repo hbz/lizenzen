@@ -1,5 +1,6 @@
-f-DPPL
-======
+Freie Peer Publishing Lizenz
+============================
+
 .. toctree::
    :maxdepth: 1
 

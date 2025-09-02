@@ -27,5 +27,6 @@ Für Software wird die :ref:`dfsl` angeboten.
    m-dppl/m-dppl
    f-dppl/f-dppl
    dfsl/dfsl
+   faq/faq
 
 
