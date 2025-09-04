@@ -16,7 +16,7 @@ author = 'Peter Reimer'
 
 
 extensions = [
-  "sphinx_rtd_theme",
+#  "sphinx_rtd_theme",
 ]
 
 templates_path = ['_templates']
@@ -33,5 +33,12 @@ html_static_path = ['_static']
 html_logo = "hbz-Logo-rgb-ohne-Claim.svg"
 html_css_files = [
   'css/custom.css',
-  'https://fonts.pubsys.hbz-nrw.de/hbz-cd-2024/hbz-cd-2024.css'
+  'https://fonts.pubsys.hbz-nrw.de/wix-madefor-text/v16/css/wix-madefor-text.css'
 ]
+html_theme_options = {
+    "light_css_variables": {
+        "color-brand-primary": "#0000C0",
+        "color-brand-content": "#0000C0",
+        "color-admonition-background": "orange",
+    },
+}
