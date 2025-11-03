@@ -11,3 +11,10 @@ Lizenzen
     $ make dirhtml
     $ python3 -m http.server --directory _build/dirhtml/
     $ rsync -avn -e ssh _build/dirhtml/ ojs:/srv/www/lizenzen.hbz-nrw.de/lizenzen/
+
+
+bestehenden HTML in RST umwandeln:
+
+.. code-block:: bash
+
+    $ pandoc -o faq_bildrechte.rst faq_bildrechte.html 

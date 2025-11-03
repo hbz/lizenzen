@@ -1,3 +1,5 @@
+.. _m-dppl:
+
 Modulare Digital Peer Publishing Lizenz
 =======================================
 

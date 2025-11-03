@@ -1,3 +1,5 @@
+.. _dppl:
+
 Digital Peer Publishing Lizenz
 ==============================
 

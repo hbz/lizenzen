@@ -1,3 +1,5 @@
+.. _f-dppl:
+
 Freie Peer Publishing Lizenz
 ============================
 
