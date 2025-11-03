@@ -112,7 +112,7 @@ following:
 #. all references in the Source Code and/or Object Code containing
    information about the author of the Program;
 #. a conspicuous reference to this License and the Internet address
-   http://www.d-fsl.org, to be displayed in a form that can easily be
+   https://lizenzen.hbz-nrw.de/, to be displayed in a form that can easily be
    read by the recipient;
 #. the complete text of this License in a form easy to perceive.
 
@@ -172,8 +172,7 @@ section 2 b) of the GPL. This provision reads: "You must cause any work
 that you distribute or publish, that in whole or in part contains or is
 derived from the Program or any part thereof, to be licensed as a whole
 at no charge to all third parties under the terms of this License." The
-GPL can be obtained under
-`http://www.fsf.org/licenses/gpl <http://www.fsf.org/licenses/gpl>`__.
+GPL can be obtained under https://www.gnu.org/licenses/gpl-3.0.
 
 (4) If you distribute the Program or make it publicly available in a
 modified form, you must include a reference to the modifications and the
@@ -301,7 +300,7 @@ taking into consideration the aim and purpose of the License.
 (2) The license board of the German Free Software License may put into
 force binding new versions of this License inasmuch as this is required
 and reasonable. New versions of the License will be published on the
-Internet site http://www.d-fsl.org with a unique version number. The new
+Internet site https://lizenzen.hbz-nrw.de/ with a unique version number. The new
 version of the License becomes binding for you as soon as you become
 aware of its publication. Legal remedies against the modification of the
 License are not restricted by the regulations described above.
@@ -321,11 +320,9 @@ In order to make it possible for anyone to conclude this License, it is
 recommended to include the following reference to the License in the
 Program:
 
-::
-
    "Copyright (C) 20[yy] [Name of the Entitled Person].
 
    This Program may be used by anyone in accordance with the terms of the
    German Free Software License
 
-   The License may be obtained under http://www.d-fsl.org."
+   The License may be obtained under https://lizenzen.hbz-nrw.de/dfsl/1.0/en."

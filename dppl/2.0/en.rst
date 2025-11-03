@@ -5,7 +5,7 @@ Digital Peer Publishing Licence (v2, en)
 
 HTML Version der Digital Peer Publishing Lizenz (Version 2, Englisch) 
 
-Version 2.0 - June 2004
+Version 2.0 -- June 2004
 
 Copyright © 2004 Ministerium für Wissenschaft und Forschung des Landes
 Nordrhein-Westfalen (Ministry of Science and Research, State of
@@ -13,7 +13,7 @@ North-Rhine Westphalia)
 
 Developed and created by Axel Metzger and Till Jaeger, Institut für
 Rechtsfragen der Freien und Open Source Software (Institute for Legal
-Issues on Free and Open Source Software), http://www.ifross.de/
+Issues on Free and Open Source Software), https://www.ifross.org/
 
 Preamble
 --------
@@ -25,8 +25,8 @@ academic journals and publications in book form are being complemented
 or even replaced by electronic versions. At the same time, researchers
 and scientists pass on their sources of all kinds by means of individual
 communication in data networks. This process is expressly supported by
-the leading German research organisations in the Berlin Declaration (
-http://www.zim.mpg.de/openaccess-berlin/berlindeclaration.html).
+the leading German research organisations in the Berlin Declaration
+(https://openaccess.mpg.de/Berliner-Erklaerung).
 
 The new communication possibilities allow academic content to be
 disseminated in a decentralised manner - in a fast, transparent way,
@@ -241,7 +241,7 @@ agreement, You shall always include the text of this licence in the
 German and the English language accompanying the Work, or to quote a
 source under which both versions of this licence may be permanently be
 retrieved by electronic means in the usual way, preferably by download
-from the Internet, for example from the site http://www.dipp.nrw.de/.
+from the Internet, for example from the site https://lizenzen.hbz-nrw.de.
 
 (2) You may neither alter nor remove references to this licence which
 the author or holder of an exclusive right to Use has added to the Work.
@@ -323,7 +323,7 @@ consideration of the objective and purpose of the license agreement.
 its legal successor) may bring new versions of the license agreement
 into force with binding effect in case this is necessary and
 appropriate. New versions of the license agreement shall be made
-available in the Internet at http://www.dipp.nrw.de/\ with an express
+available in the Internet at https://lizenzen.hbz-nrw.de with an express
 version number. The new version of the license agreement shall come into
 binding effect for You at the time when You become aware of its
 publication. Statutory redress against the alteration of the license
@@ -344,9 +344,9 @@ In order to enable any party to conclude this license agreement, it is
 recommended that You provide the Work with the following reference to
 the license agreement:
 
-"Any party may pass on this Work by electronic means and make it
-available for download under the terms and conditions of the Digital
-Peer Publishing Licence (DPPL) [please quote the version number here, in
-the event You require license under a specific version of the license
-agreement]. The text of the licence may be accessed and retrieved via
-Internet at http://nbn-resolving.de/urn:nbn:de:0009-dppl-v2-en4."
+    "Any party may pass on this Work by electronic means and make it
+    available for download under the terms and conditions of the Digital
+    Peer Publishing Licence (DPPL) [please quote the version number here, in
+    the event You require license under a specific version of the license
+    agreement]. The text of the licence may be accessed and retrieved via
+    Internet at https://lizenzen.hbz-nrw.de/dppl/2.0/en."

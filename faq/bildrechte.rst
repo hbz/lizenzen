@@ -1,19 +1,19 @@
 .. _faq_bildrechte:
 
-FAQs zur DPPL, Bildrechte, Version 1 
-====================================
+FAQs zur :abbr:`DPPL(Digital Peer Publishing Lizenz)`, Bildrechte, Version 1 
+============================================================================
 
-Dr. Till Jaeger, Berlin
+:abbr:`Dr.(Doktor)` Till Jaeger, Berlin
 
 Die Frageliste steht auch als :download:`PDF-Datei <./faq-bildrechte-dppl.pdf>`  zur Verfügung.
 
 
-Was darf frei fotografiert werden und wann sind Gestattungen einzuholen (z. B. Personenbilder, Fotos in Museen, Aufnahmen innerhalb von Gebäuden etc.)?
--------------------------------------------------------------------------------------------------------------------------------------------------------
+Was darf frei fotografiert werden und wann sind Gestattungen einzuholen (:abbr:`z. B.(zum Beispiel)` Personenbilder, Fotos in Museen, Aufnahmen innerhalb von Gebäuden etc.)?
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Es ist zwischen den Rechten an einem Foto selbst und den Rechten an dem
 fotografierten Gegenstand (Motiv) zu unterscheiden. Während viele Motive
-frei fotografiert werden dürfen (z. B. Landschaft, Selbstporträt), ist
+frei fotografiert werden dürfen (:abbr:`z. B.(zum Beispiel)` Landschaft, Selbstporträt), ist
 bei anderen Motiven zumindest die Veröffentlichung nur nach vorheriger
 Gestattung des Rechtsinhabers zulässig. Hier sind folgende
 Konstellationen praktisch relevant:
@@ -25,8 +25,8 @@ Im Grundsatz dürfen Fotos von Personen nur mit Einwilligung des
 Abgebildeten erstellt und veröffentlicht werden (§ 22 KUG -
 Kunsturhebergesetz). Dies wird das „Recht am eigenen Bild“ genannt.
 Schon die Herstellung von Personenfotos kann verboten und sogar gem. §
-201 StGB strafbar sein, wenn sich die abgebildete Person in einem „gegen
-Einblick besonders geschützten Raum befindet“ (z. B. Voyeurbilder).
+201 :abbr:`StGB(Strafgesetzbuch)` strafbar sein, wenn sich die abgebildete Person in einem „gegen
+Einblick besonders geschützten Raum befindet“ (:abbr:`z. B.(zum Beispiel)` Voyeurbilder).
 Allerdings sieht § 22 KUG eine Reihe von Ausnahmen vor, bei denen die
 Veröffentlichung ohne Einwilligung zulässig ist:
 
@@ -38,7 +38,7 @@ Bildnisse aus dem Bereich der Zeitgeschichte:
    abgebildeten Person und dem Informationsinteresse der Öffentlichkeit
    erforderlich. Dabei kommt es darauf an, ob der zu bebildernde Text
    von öffentlichem Interesse ist und die abgebildete Person dafür
-   relevant ist (z. B. Foto eines Ministers für einen Text über ein
+   relevant ist (:abbr:`z. B.(zum Beispiel)` Foto eines Ministers für einen Text über ein
    Thema, das seine Tätigkeit betrifft). Je mehr die Privat- oder
    Intimsphäre des Abgebildeten betroffen ist, desto wichtiger muss das
    öffentliche Informationsinteresse sein. Daher ist die Erstellung von
@@ -54,14 +54,14 @@ Personen als Beiwerk neben einer Landschaft oder sonstigen Örtlichkeit:
    abhängen, ob eine Person abgebildet ist oder nicht. Dies wird nur
    ausnahmsweise der Fall sein.
 Bilder von Massenveranstaltungen:
-   Fotos von Massenveranstaltungen (z. B. Demonstrationen,
+   Fotos von Massenveranstaltungen (:abbr:`z. B.(zum Beispiel)` Demonstrationen,
    Sportveranstaltungen) zeigen notwendig auch Personen. Dies ist
    zulässig, sofern die Veranstaltung zentraler Gegenstand des Fotos ist
    und nicht der einzelne Teilnehmer. Porträtaufnahmen sind daher durch
    diese Ausnahme nicht abgedeckt.
 Künstlerische Fotografien:
    eine künstlerische Abbildung einer Person darf aber nur zu einem
-   künstlerischen Zweck veröffentlichen werden (z. B. in einer
+   künstlerischen Zweck veröffentlichen werden (:abbr:`z. B.(zum Beispiel)` in einer
    Ausstellung oder Bildband), nicht für wirtschaftliche oder andere
    Zwecke. Es darf sich auch nicht um eine Auftragsarbeit handeln, dann
    sind die vertraglichen Absprachen relevant.
@@ -69,7 +69,7 @@ Künstlerische Fotografien:
 Die genannten Ausnahmen stehen alle unter dem Vorbehalt, dass
 „berechtigte Interessen“ des Abgebildeten nicht verletzt werden dürfen.
 Dies ist regelmäßig der Fall, wenn die Privat- oder Intimsphäre
-betroffen ist (z. B. Nacktbilder) oder das Bild werbemäßig genutzt wird.
+betroffen ist (:abbr:`z. B.(zum Beispiel)` Nacktbilder) oder das Bild werbemäßig genutzt wird.
 
 Wenn keine Ausnahmeregelung eingreift, muss die Einwilligung des
 Abgebildeten eingeholt werden. Bei Kindern ist die Einwilligung der
@@ -91,34 +91,34 @@ Außenaufnahmen von Wohnhäusern, wenn dabei die Bewohner (meist
 Prominente) genannt werden.
 
 Urheberrechtlich geschützte Werke, die Gegenstand von Abbildungen sein
-können, sind z. B. Gemälde, Skulpturen, Gebäude als architektonische
+können, sind :abbr:`z. B.(zum Beispiel)` Gemälde, Skulpturen, Gebäude als architektonische
 Werke, Schmuck, Kunstinstallationen und auch Fotos Anderer. Hier ist die
 Einräumung eines Nutzungsrechts durch den Rechteinhaber erforderlich
 (sog. Lizenz), wenn nicht eine gesetzliche Schranke, d. h.
-Ausnahmeregelung, eingreift. Diese sind in den §§ 44a ff. UrhG geregelt.
+Ausnahmeregelung, eingreift. Diese sind in den §§ 44a :abbr:`ff.(folgende)` :abbr:`UrhG(Urheberrechtsgesetz)` geregelt.
 Für Fotos sind die folgenden Schranken besonders relevant:
 
--  **Panoramafreiheit**: Gem. § 59 UrhG dürfen urheberrechtlich
+-  **Panoramafreiheit**: Gem. § 59 :abbr:`UrhG(Urheberrechtsgesetz)` dürfen urheberrechtlich
    geschützte Werke, die sich dauerhaft an öffentlichen Wegen befinden,
    abgebildet werden. Damit dürfen Gebäude vom öffentlichen Straßengrund
    aus fotografiert werden, allerdings nur von der Außenansicht. Nicht
    zulässig sind ohne Einwilligung Innenaufnahmen sowie Außenaufnahmen
-   von privatem Boden aus und nur vorübergehend sichtbare Werke (z. B.
+   von privatem Boden aus und nur vorübergehend sichtbare Werke (:abbr:`z. B.(zum Beispiel)`
    der von Christo verhüllte Reichstag).
 -  **Zitatrecht**: In einem eigenen wissenschaftlichen Werk dürfen
    *eigene* Fotos von anderen Werken zur Erläuterung des Inhalts
-   verwendet werden (z. B. von Foto von einer Skulptur). Dabei muss eine
+   verwendet werden (:abbr:`z. B.(zum Beispiel)` von Foto von einer Skulptur). Dabei muss eine
    inhaltliche Auseinandersetzung mit dem abgebildeten Werk stattfinden
    („Belegfunktion“), die bloße Bebilderung ist nicht ausreichend. Zudem
    besteht eine Pflicht zur deutlichen Quellenangabe (Urhebernennung und
    Fundstelle), sofern die Quelle nicht unbekannt ist. Nicht zulässig
    ist regelmäßig die Nutzung von Fotos *Dritter*, wenn sich die
    inhaltliche Auseinandersetzung nicht auf das Foto bezieht, sondern
-   auf das in dem Foto abgebildete Werk (z. B. Foto eines Dritten von
+   auf das in dem Foto abgebildete Werk (:abbr:`z. B.(zum Beispiel)` Foto eines Dritten von
    einem Gemälde).
 -  Weitere Schranken, die relevant sein können, ist die Nutzung von
    Fotos, in denen ein anderes Werk nur **unwesentliches Beiwerk** ist
-   (z. B. künstlerisch gestaltetes T-Shirt einer abgebildeten Person),
+   (:abbr:`z. B.(zum Beispiel)` künstlerisch gestaltetes T-Shirt einer abgebildeten Person),
    oder die Abbildung von Kunstwerken zur Werbung für öffentliche
    Ausstellungen. Für den **privaten Gebrauch** können ebenfalls
    urheberrechtlich geschützte Werke fotografiert werden, allerdings ist
@@ -158,8 +158,8 @@ Militärische Anlagen und alle zum Kampfeinsatz bestifften Gegenstände
 werden. Entsprechendes gilt für Luftaufnahmen, durch die die Sicherheit
 der Bundesrepublik Deutschland gefährdet wird.
 
-Welche auf Fotoplattformen erhältlichen Fotos dürfen unter welchen Bedingungen genutzt werden (z. B. Photocase, Wikimedia Commons, Getty Images)?
--------------------------------------------------------------------------------------------------------------------------------------------------
+Welche auf Fotoplattformen erhältlichen Fotos dürfen unter welchen Bedingungen genutzt werden (:abbr:`z. B.(zum Beispiel)` Photocase, Wikimedia Commons, Getty Images)?
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Fotoplattformen dienen der unkomplizierten Lizenzierung von Fotos, so
 dass nicht der einzelne Fotograf oder Rechteinhaber kontaktiert werden
@@ -179,8 +179,8 @@ ob die geplante Nutzung abgedeckt ist:
    und – bei einem Druckwerk – die Auflage 250.000 nicht übersteigt.
    Dies bedeutet, dass die Fotos zur Bebilderung eines Textes verwendet
    werden können oder innerhalb eines eigenständigen graphischen Werkes
-   (z. B. Website, Werbemittel), aber nicht ohne Kontext verwertet
-   werden dürfen (z. B. Verkauf von Abzügen). Es ist eine Urheber- und
+   (:abbr:`z. B.(zum Beispiel)` Website, Werbemittel), aber nicht ohne Kontext verwertet
+   werden dürfen (:abbr:`z. B.(zum Beispiel)` Verkauf von Abzügen). Es ist eine Urheber- und
    Quellenangabe vorzunehmen: *„Foto: [Name des Fotografen]./ Quelle
    PHOTOCASE [in Online-Angeboten entsprechende verlinkt]“*. In
    Einzelfällen können auch „erweiterte Nutzungsrechte“ gegen ein
@@ -208,7 +208,7 @@ CC? <#welche-unterschiedlichen-lizenztypen-gibt-es-bei-cc->`__\ “), ohne
 dass Lizenzgebühren bezahlt werden müssen. Der Fotograf bleibt jedoch
 Urheber und kann sein Foto auch unter anderen Lizenzbedingungen und
 gegen Bezahlung anbieten. Dies ist vor allem dann interessant, wenn eine
-CC-Lizenz verwendet wird, die bestimmte Nutzungen ausschließt (z. B.
+CC-Lizenz verwendet wird, die bestimmte Nutzungen ausschließt (:abbr:`z. B.(zum Beispiel)`
 „non-commercial“) und ein Nutzer eben diese weitergehende Nutzung
 vornehmen will.
 
@@ -274,7 +274,7 @@ die auch eine alte Rechtslage relevant sein kann.
 Nach Ablauf der Schutzdauer ist das Foto „gemeinfrei“, d. h. es kann
 ohne urheberrechtliche Beschränkungen genutzt werden. Allerdings ist zu
 beachten, dass sich aus dem Inhalt des Fotos rechtliche Beschränkungen
-ergeben können. Wenn z. B. auf einem Lichtbild, das nach 50 Jahren
+ergeben können. Wenn :abbr:`z. B.(zum Beispiel)` auf einem Lichtbild, das nach 50 Jahren
 gemeinfrei wird, ein Kunstwerk abgebildet ist, für das noch
 urheberrechtlicher Schutz besteht, dann darf dieses Fotos nicht frei
 genutzt werden.
@@ -286,44 +286,44 @@ verlangen, dass er mit Namen genannt wird. Sofern solche Nutzungen nicht
 lizenziert wurden oder gesetzlich gestattet sind, kann der Fotograf
 solche Nutzungen verbieten lassen.
 
-In welchem Verhältnis stehen die DPPL und CC-Lizenzen bzgl. Bildrechten?
-------------------------------------------------------------------------
+In welchem Verhältnis stehen die :abbr:`DPPL(Digital Peer Publishing Lizenz)` und CC-Lizenzen bzgl. Bildrechten?
+----------------------------------------------------------------------------------------------------------------
 
-Die DPPL-Lizenzen erlauben in unterschiedlichem Umfang die Kombination
-von DPPL-Texten mit CC-Fotos bzw. CC-Texten mit DPPL-Fotos, abhängig von
+Die :abbr:`DPPL(Digital Peer Publishing Lizenz)`-Lizenzen erlauben in unterschiedlichem Umfang die Kombination
+von :abbr:`DPPL(Digital Peer Publishing Lizenz)`-Texten mit CC-Fotos bzw. CC-Texten mit :abbr:`DPPL(Digital Peer Publishing Lizenz)`-Fotos, abhängig von
 den jeweils betroffenen Lizenztypen.
 
-Bei der DPPL Lizenz darf nur der ursprüngliche Urheber sein Werk mit
+Bei der :abbr:`DPPL(Digital Peer Publishing Lizenz)` Lizenz darf nur der ursprüngliche Urheber sein Werk mit
 anderen selbständigen Werken verbinden, die unter der Creative
 Commons-Lizenz „Namensnennung“ („Attribution) genutzt werden dürfen. Bei
-der Freien DPPL Lizenz darf hingegen auch der Lizenznehmer das Werk mit
+der Freien :abbr:`DPPL(Digital Peer Publishing Lizenz)` Lizenz darf hingegen auch der Lizenznehmer das Werk mit
 Inhalten kombinieren, die unter der Creative Commons-Lizenz
 „Namensnennung“ („Attribution“) oder Creative Commons-Lizenz „Weitergabe
 unter gleichen Bedingungen“ („Share Alike“) oder der GNU Free
 Documentation License lizenziert sind (ausführlich dazu „\ `Wie können
 Fotos unter Creative Commons-Lizenzen oder der GNU Free Documentation
-License mit Inhalten unter den DPPL-Lizenzen kombiniert
-werden? <#wie-k-nnen-fotos-unter-creative-commons-lizenzen-oder-der-gnu-free-documentation-license-mit-inhalten-unter-den-dppl-lizenzen-kombiniert-werden->`__\ “).\ **
+License mit Inhalten unter den :abbr:`DPPL(Digital Peer Publishing Lizenz)`-Lizenzen kombiniert
+werden? <#wie-k-nnen-fotos-unter-creative-commons-lizenzen-oder-der-gnu-free-documentation-license-mit-inhalten-unter-den-:abbr:`DPPL(Digital Peer Publishing Lizenz)`-lizenzen-kombiniert-werden->`__\ “).\ **
 **
 
-Wie können Fotos unter Creative Commons-Lizenzen oder der GNU Free Documentation License mit Inhalten unter den DPPL-Lizenzen kombiniert werden?
-------------------------------------------------------------------------------------------------------------------------------------------------
+Wie können Fotos unter Creative Commons-Lizenzen oder der GNU Free Documentation License mit Inhalten unter den :abbr:`DPPL(Digital Peer Publishing Lizenz)`-Lizenzen kombiniert werden?
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Zunächst ist danach zu unterscheiden, *wer* ein Werk unter einer DPPL
-Lizenz mit anderen Werken kombinieren möchte. In § 8 DPPL Lizenz bzw. §
-10 Freie und Modulare DPPL Lizenz wird danach unterschieden, ob der
+Zunächst ist danach zu unterscheiden, *wer* ein Werk unter einer :abbr:`DPPL(Digital Peer Publishing Lizenz)`
+Lizenz mit anderen Werken kombinieren möchte. In § 8 :abbr:`DPPL(Digital Peer Publishing Lizenz)` Lizenz bzw. §
+10 Freie und Modulare :abbr:`DPPL(Digital Peer Publishing Lizenz)` Lizenz wird danach unterschieden, ob der
 Lizenzgeber – also im Regelfall der Urheber – oder der Lizenznehmer eine
 Werkverbindung vornimmt.
 
-Der *Urheber* selbst darf unter allen DPPL-Lizenzen sein Werk mit einem
+Der *Urheber* selbst darf unter allen :abbr:`DPPL(Digital Peer Publishing Lizenz)`-Lizenzen sein Werk mit einem
 Werk unter der Creative Commons-Lizenz „Namensnennung“ („Attribution)
 für eine gemeinsame Nutzung verbinden, sofern das Werk und der Creative
-Commons- Inhalt weiterhin selbstständig verwertbar bleiben (z. B. eine
+Commons- Inhalt weiterhin selbstständig verwertbar bleiben (:abbr:`z. B.(zum Beispiel)` eine
 Kombination von Text und Foto). Grund dafür, dass eine Werkverbindung
 nur mit der CC-Lizenz „Namensnennung“ („Attribution) zugelassen ist, war
 vor allem die Notwendigkeit, dass sich die Lizenzbedingungen von
-CC-Lizenz und DPPL Lizenz nicht widersprechen sollen. Bei anderen
-CC-Lizenzen hätte diese Gefahr bestanden, da etwa die DPPL-Lizenz auch
+CC-Lizenz und :abbr:`DPPL(Digital Peer Publishing Lizenz)` Lizenz nicht widersprechen sollen. Bei anderen
+CC-Lizenzen hätte diese Gefahr bestanden, da etwa die :abbr:`DPPL(Digital Peer Publishing Lizenz)`-Lizenz auch
 die kommerzielle Nutzung zulässt (anders als die CC-Lizenz „non
 commercial“), aber keine freie Bearbeitung gestattet (wie die CC-Lizenz
 „share alike“). Leider ergibt sich aus den Lizenztexten der Creative
@@ -338,16 +338,16 @@ ansonsten die Regelungen über die Bearbeitung von Werken Anwendung
 finden.
 
 Anders ist die Frage geregelt, mit welchen Inhalten der Lizenz\ *nehmer*
-ein DPPL lizenziertes Werk kombinieren darf. Hier war zwischen den DPPL
+ein :abbr:`DPPL(Digital Peer Publishing Lizenz)` lizenziertes Werk kombinieren darf. Hier war zwischen den :abbr:`DPPL(Digital Peer Publishing Lizenz)`
 Lizenztypen zu unterscheiden:
 
--  Bei der DPPL-Lizenz ist dem Lizenznehmer keine Verbindung mit
+-  Bei der :abbr:`DPPL(Digital Peer Publishing Lizenz)`-Lizenz ist dem Lizenznehmer keine Verbindung mit
    CC-Werken gestattet. Der Grund dafür liegt darin, dass der Urheber
    eine Veränderung seines Werkes gerade nicht gestatten will. Auch die
    Verbindung mit einem anderen Inhalt kann die Intentionen des Urhebers
    beeinträchtigen, so dass hier grundsätzlich auf eine Kombinierbarkeit
    verzichtet wurde.
--  Bei der Freien DPPL-Lizenz ist die Kombination mit Inhalten unter den
+-  Bei der Freien :abbr:`DPPL(Digital Peer Publishing Lizenz)`-Lizenz ist die Kombination mit Inhalten unter den
    folgenden Lizenzen möglich:
 
    a. Creative Commons-Lizenz „Namensnennung“ („Attribution“),
@@ -358,11 +358,11 @@ Lizenztypen zu unterscheiden:
    Unterschiedlich sind dabei die Rechtsfolgen. Nach § 10 Abs. 3 bleibt
    bei einer Werkverbindung mit einem unter Creative Commons-Lizenz
    „Namensnennung“ („Attribution“) lizenzierten Werk, bei der jedes Werk
-   weiterhin selbständig verwertbar bleibt (z. B. Bebilderung eines
+   weiterhin selbständig verwertbar bleibt (:abbr:`z. B.(zum Beispiel)` Bebilderung eines
    Textes mit einem Foto), jedes der Werke seiner Ursprungslizenz
-   unterstellt. Sind die Werke nicht selbständig verwertbar (z. B.
+   unterstellt. Sind die Werke nicht selbständig verwertbar (:abbr:`z. B.(zum Beispiel)`
    Hinzufügung eines Textes in einen anderen Text), dann muss das neue
-   Werk gem. § 10 Abs. 4 insgesamt der Freien DPPL Lizenz unterstellt
+   Werk gem. § 10 Abs. 4 insgesamt der Freien :abbr:`DPPL(Digital Peer Publishing Lizenz)` Lizenz unterstellt
    werden. Wenn jedoch eine Kombination mit einem Inhalt unter der
    Creative Commons-Lizenz „Weitergabe unter gleichen Bedingungen“
    („Share Alike“) oder der GNU Free Documentation License erfolgt – sei
@@ -374,38 +374,38 @@ Lizenztypen zu unterscheiden:
    dass die Lizenzen ebenfalls verlangen, dass veränderte Werke der
    Ursprungslizenz unterstellt werden. Da ein Werk ohne nachträgliche
    Zustimmung des Urhebers des hinzugefügten Werkes nicht gleichzeitig
-   unter der Freien DPPL Lizenz und der Creative Commons-Lizenz
+   unter der Freien :abbr:`DPPL(Digital Peer Publishing Lizenz)` Lizenz und der Creative Commons-Lizenz
    „Weitergabe unter gleichen Bedingungen“ („Share Alike“) bzw. GNU Free
-   Documentation License lizenziert sein kann, erlaubt die Freie DPPL
+   Documentation License lizenziert sein kann, erlaubt die Freie :abbr:`DPPL(Digital Peer Publishing Lizenz)`
    Lizenz, die Nutzung insgesamt unter der anderen Copyleft-Lizenz.
 
--  Die Modulare DPPL Lizenz erlaubt die Kombination mit Inhalten unter
+-  Die Modulare :abbr:`DPPL(Digital Peer Publishing Lizenz)` Lizenz erlaubt die Kombination mit Inhalten unter
    der Creative Commons-Lizenz „Namensnennung“ („Attribution“). Wenn die
    Werke weiterhin selbständig verwertbar bleiben, bleiben die
    Lizenzbedingungen für die vorbestehenden Werke unverändert. Wird aber
-   der CC-Inhalt mit den unter der Modularen DPPL Lizenz veränderbaren
+   der CC-Inhalt mit den unter der Modularen :abbr:`DPPL(Digital Peer Publishing Lizenz)` Lizenz veränderbaren
    Bestandteilen zu einem Werk verbunden, in dem der CC-Bestandteil
    nicht mehr selbständig verwertbar ist, dann muss das entstehende Werk
-   insgesamt der Modularen DPPL Lizenz unterstellt werden.
+   insgesamt der Modularen :abbr:`DPPL(Digital Peer Publishing Lizenz)` Lizenz unterstellt werden.
 
-Wie ist die Nutzung von Bildrechten in der DPPL geregelt?
----------------------------------------------------------
+Wie ist die Nutzung von Bildrechten in der :abbr:`DPPL(Digital Peer Publishing Lizenz)` geregelt?
+-------------------------------------------------------------------------------------------------
 
-Die DPPL (Digital Peer Publishing Lizenz (Version 3) enthält keine
+Die :abbr:`DPPL(Digital Peer Publishing Lizenz)` (Digital Peer Publishing Lizenz (Version 3) enthält keine
 speziellen Regelungen zu Fotorechten. Daher gilt grundsätzlich, dass die
-freie Nutzbarkeit unter den Bedingungen der DPPL sowohl für den Text als
+freie Nutzbarkeit unter den Bedingungen der :abbr:`DPPL(Digital Peer Publishing Lizenz)` sowohl für den Text als
 auch für verwendete Fotos und Grafiken gelten muss. Ansonsten würde die
 Verwendung eines herkömmlich zu lizenzierenden Bildes dazu führen, dass
 der gesamte Beitrag nicht mehr frei nutzbar ist.
 
-Von der Regel, dass die DPPL für alle Bestandteile eines Beitrages
-Anwendung finden muss, sieht § 8 DPPL eine Ausnahme für die Kombination
+Von der Regel, dass die :abbr:`DPPL(Digital Peer Publishing Lizenz)` für alle Bestandteile eines Beitrages
+Anwendung finden muss, sieht § 8 :abbr:`DPPL(Digital Peer Publishing Lizenz)` eine Ausnahme für die Kombination
 eines Textes mit Fotos und anderen Bildern vor. Danach darf der
 Lizenzgeber das Werk mit einem anderen Inhalt, der unter der Creative
 Commons-Lizenz "Namensnennung" ("Attribution) genutzt werden darf, für
 eine gemeinsame Nutzung verbinden, sofern das Werk und der andere Inhalt
-weiterhin selbstständig verwertbar bleiben (z. B. Kombination von Text
-und Foto). Zum Verhältnis von CC-Lizenzierung und DPPL siehe auch
+weiterhin selbstständig verwertbar bleiben (:abbr:`z. B.(zum Beispiel)` Kombination von Text
+und Foto). Zum Verhältnis von CC-Lizenzierung und :abbr:`DPPL(Digital Peer Publishing Lizenz)` siehe auch
 „\ `Wie können Fotos unter Creative Commons-Lizenzen oder der GNU Free
 Documentation License mit Inhalten unter den DPPL-Lizenzen kombiniert
 werden? <#wie-k-nnen-fotos-unter-creative-commons-lizenzen-oder-der-gnu-free-documentation-license-mit-inhalten-unter-den-dppl-lizenzen-kombiniert-werden->`__\ “
@@ -466,18 +466,18 @@ Fotos können als Lichtbildwerke oder als bloße Lichtbilder geschützt
 sein. Die Abgrenzung ist im Einzelfall schwierig und richtet sich
 danach, ob das Foto urheberrechtliche Werkqualität hat (meist bei
 künstlerischem Charakter) oder ob es sich um ein einfaches „Knipsbild“
-handelt. Der Schutz von Lichtbildwerken ist in § 2 Abs. 1 Nr. 5 UrhG
-geregelt, der Schutz von Lichtbildern in § 72 UrhG, der dem Fotografen
+handelt. Der Schutz von Lichtbildwerken ist in § 2 Abs. 1 Nr. 5 :abbr:`UrhG(Urheberrechtsgesetz)`
+geregelt, der Schutz von Lichtbildern in § 72 :abbr:`UrhG(Urheberrechtsgesetz)`, der dem Fotografen
 ein dem Urheberrecht weitgehend gleichgestelltes Leistungsschutzrecht
 gewährt.
 
-Das Folgerecht in § 26 UrhG regelt die Beteiligung des Urhebers beim
+Das Folgerecht in § 26 :abbr:`UrhG(Urheberrechtsgesetz)` regelt die Beteiligung des Urhebers beim
 Weiterverkauf von Originalen eines Lichtbildwerkes.
 
-§ 59 Abs. 1 UrhG regelt die Panoramafreiheit (siehe „\ `Was darf frei
+§ 59 Abs. 1 :abbr:`UrhG(Urheberrechtsgesetz)` regelt die Panoramafreiheit (siehe „\ `Was darf frei
 fotografiert werden und wann sind Gestattungen
 einzuholen? <#was-darf-frei-fotografiert-werden-und-wann-sind-gestattungen-einzuholen--z-b--personenbilder--fotos-in-museen--aufnahmen-innerhalb-von-geb-uden-etc--->`__\ “).
-§ 62 Abs. 3 UrhG regelt die Befugnis zur Größenänderung, wenn eine
+§ 62 Abs. 3 :abbr:`UrhG(Urheberrechtsgesetz)` regelt die Befugnis zur Größenänderung, wenn eine
 Vervielfältigung zulässig ist.
 
 Mit welchen rechtlichen Folgen muss man bei einer Urheberrechtsverletzung rechnen?
@@ -490,7 +490,7 @@ a) Zivilrechtliche Ansprüche
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Zivilrechtliche Ansprüche des Rechteinhabers gegen den Verletzer sind in
-§ 97 Abs. 1 UrhG geregelt. Danach kann der Urheber vom Verletzer die
+§ 97 Abs. 1 :abbr:`UrhG(Urheberrechtsgesetz)` geregelt. Danach kann der Urheber vom Verletzer die
 **Beseitigung** der Beeinträchtigung und bei Wiederholungsgefahr die
 **Unterlassung** verlangen. Durch eine bereits erfolgte Rechtsverletzung
 besteht im Regelfall ein begründeter Verdacht auf weitere
@@ -510,7 +510,7 @@ Rechteinhaber richten, hat der Verletzer zu tragen. Für die
 Kostentragungspflicht und den Unterlassungsanspruch kommt es nicht
 darauf an, ob die Rechtsverletzung schuldhaft erfolgt ist.
 
-Darüber hinaus gewährt § 97 Abs. 2 UrhG dem Urheber einen
+Darüber hinaus gewährt § 97 Abs. 2 :abbr:`UrhG(Urheberrechtsgesetz)` dem Urheber einen
 Schadensersatzanspruch gegen den Verletzer, wenn dieser die Verletzung
 vorsätzlich oder fahrlässig begangen hat. Dabei wird von den Gerichten
 ein strenger Maßstab angelegt, d. h. eine Redaktion muss sich für jedes
@@ -524,7 +524,7 @@ der Mittelstandsgemeinschaft Foto-Marketing (MFM) ab. Es gilt der
 Grundsatz, dass der Verletzer nicht besser gestellt sein soll als bei
 einer ordnungsgemäßen Lizenzierung.
 
-§ 98 UrhG räumt dem Inhaber der Rechte an dem jeweiligen Werk die
+§ 98 :abbr:`UrhG(Urheberrechtsgesetz)` räumt dem Inhaber der Rechte an dem jeweiligen Werk die
 Möglichkeit ein, die Überlassung der rechtswidrig hergestellten,
 verbreiteten oder zur rechtswidrigen Verbreitung bestimmten
 Vervielfältigungsstücke an sich selbst oder ihre Vernichtung zu
@@ -534,14 +534,14 @@ angemessene Vergütung für die Vervielfältigungsstücke zu entrichten,
 welche jedoch die Herstellungskosten der Vervielfältigungsstücke nicht
 übersteigen darf.
 
-Es haftet sowohl die handelnde Person (z. B. Bildredakteur) als auch das
+Es haftet sowohl die handelnde Person (:abbr:`z. B.(zum Beispiel)` Bildredakteur) als auch das
 Unternehmen, in dessen Auftrag ein Arbeitnehmer gehandelt hat. Bei einem
 Organisationsverschulden, insbesondere bei wiederholten
 Urheberrechtsverletzungen, haftet zudem der Geschäftsführer einer GmbH,
 Vorstand einer AG oder sonstige verantwortliche Vertreter des
 Unternehmens.
 
-Dem Rechteinhaber stehen darüber hinaus nach § 101 UrhG
+Dem Rechteinhaber stehen darüber hinaus nach § 101 :abbr:`UrhG(Urheberrechtsgesetz)`
 **Auskunft**\ sansprüche über die Herkunft und den Vertriebsweg der
 rechtsverletzenden Vervielfältigungsstücke oder sonstigen Erzeugnisse
 zu, wenn der Verletzer die Rechtsverletzung in gewerblichem Ausmaß
@@ -551,7 +551,7 @@ Ergeht im Rahmen einer gerichtlichen Auseinandersetzung wegen einer
 Rechtsverletzung eines Rechteinhabers ein Urteil, so kann die den
 Rechtsstreit obsiegende Partei das Urteil auf Kosten der unterliegenden
 Partei **veröffentlichen**, wenn sie ein berechtigtes Interesse vor
-Gericht darlegt, § 103 UrhG.
+Gericht darlegt, § 103 :abbr:`UrhG(Urheberrechtsgesetz)`.
 
 b) Strafrechtliche Sanktionen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -560,10 +560,10 @@ In der Praxis spielt die zivilrechtliche Verfolgung von
 Urheberrechtsverletzungen eine weit größere Rolle als die
 strafrechtlichen Sanktionsmöglichkeiten. So ist vorgesehen, dass der
 Verletzer bei vorsätzlichen Urheberrechtsverletzungen gem. § 106 Abs. 1
-UrhG mit einer Freiheitsstrafe bis zu drei Jahren oder mit einer
+:abbr:`UrhG(Urheberrechtsgesetz)` mit einer Freiheitsstrafe bis zu drei Jahren oder mit einer
 Geldstrafe bestraft werden kann.
 
-Ebenso macht sich nach § 108 UrhG strafbar, wer ein Lichtbild oder eine
+Ebenso macht sich nach § 108 :abbr:`UrhG(Urheberrechtsgesetz)` strafbar, wer ein Lichtbild oder eine
 Bearbeitung oder Umgestaltung eines Lichtbilds vervielfältigt,
 verbreitet oder öffentlich wiedergibt oder aber auch einen Bildträger
 oder Bild- und Tonträger unrechtmäßigerweise verwertet. Für die
@@ -572,25 +572,25 @@ Lichtbildwerk Gegenstand der Verletzung ist (siehe „\ `Welche
 Paragraphen im Urheberrecht beschäftigen sich mit Lichtbildern und
 Lichtbildwerken? <#welche-paragraphen-im-urheberrecht-besch-ftigen-sich-mit-lichtbildern-und-lichtbildwerken->`__\ “.
 
-Im Falle der gewerbsmäßigen Begehung der in den §§ 106 – 108 UrhG
+Im Falle der gewerbsmäßigen Begehung der in den §§ 106 – 108 :abbr:`UrhG(Urheberrechtsgesetz)`
 normierten Tatbestände erhöht sich das Strafmaß. Die Freiheitsstrafe
 kann dann bis zu fünf Jahren reichen.
 
-Allerdings werden die Straftatbestände der §§ 106 – 108 UrhG gem. § 109
-UrhG nur auf Antrag oder bei Vorliegen eines besonderen öffentlichen
+Allerdings werden die Straftatbestände der §§ 106 – 108 :abbr:`UrhG(Urheberrechtsgesetz)` gem. § 109
+:abbr:`UrhG(Urheberrechtsgesetz)` nur auf Antrag oder bei Vorliegen eines besonderen öffentlichen
 Interesses verfolgt, was die praktische Anwendung der Normen deutlich
 reduziert. Auch wenn der Rechteinhaber einen Strafantrag stellt, nimmt
 die Staatsanwaltschaft die Strafverfolgung nur bei Vorliegen eines
 öffentlichen Interesses auf. Andernfalls wird der Antragsteller gem. §§
 374 Abs.1 Nr.8, 376 StPO auf die Privatklage verwiesen. Die
 strafrechtliche Verfolgung findet daher lediglich bei besonders
-gravierenden Verletzungen der Urheberrechte statt (z. B. gewerblicher
+gravierenden Verletzungen der Urheberrechte statt (:abbr:`z. B.(zum Beispiel)` gewerblicher
 Vertrieb von Raubkopien).
 
 Was versteht man unter dem Vervielfältigungsrecht?
 --------------------------------------------------
 
-Nach § 16 UrhG ist das Vervielfältigungsrecht das Recht, körperliche
+Nach § 16 :abbr:`UrhG(Urheberrechtsgesetz)` ist das Vervielfältigungsrecht das Recht, körperliche
 Kopien eines urheberrechtlich geschützten Werks herzustellen, unabhängig
 von Verfahren und Anzahl. Dazu gehört jede Form der Speicherung von
 Werken auf einer CD, DVD, einer Festplatte, einem Server oder sonstigen
@@ -609,7 +609,7 @@ einzuholen? <#was-darf-frei-fotografiert-werden-und-wann-sind-gestattungen-einzu
 Was versteht man unter dem Verbreitungsrecht?
 ---------------------------------------------
 
-Das Verbreitungsrecht ist im § 17 UrhG geregelt. Darunter ist das Recht
+Das Verbreitungsrecht ist im § 17 :abbr:`UrhG(Urheberrechtsgesetz)` geregelt. Darunter ist das Recht
 zu verstehen, das Original oder körperliche Kopien
 (Vervielfältigungsstücke) eines Werks der Öffentlichkeit anzubieten oder
 in Verkehr zu bringen. Entscheidend ist, dass das Bild oder Photo in
@@ -619,7 +619,7 @@ Verbreitung liegt jedoch auch im Angebot des Werkes an eine einzelne
 Person vor, wenn zu dieser Person nicht nur rein private Beziehungen
 bestehen.
 
-Das Verbreitungsrecht des Urhebers unterliegt nach § 17 Abs.2 UrhG dem
+Das Verbreitungsrecht des Urhebers unterliegt nach § 17 Abs.2 :abbr:`UrhG(Urheberrechtsgesetz)` dem
 Erschöpfungsgrundsatz. Danach „verbraucht“ der Urheber sein
 Verbreitungsrecht für diejenigen Vervielfältigungsstücke, die mit seiner
 Zustimmung im Europäischen Wirtschaftsraum (EWR) in Verkehr gebracht
@@ -637,23 +637,23 @@ einem Online- oder Printmedium zu verwenden und in der Öffentlichkeit zu
 verbreiten.
 
 Im Urheberrechtsgesetz bezeichnet das Veröffentlichungsrecht nach § 12
-UrhG das Recht des Urhebers, darüber zu bestimmen, ob und wie sein Werk
-zu veröffentlichen ist. Nach herrschender Meinung erfasst § 12 UrhG nur
+:abbr:`UrhG(Urheberrechtsgesetz)` das Recht des Urhebers, darüber zu bestimmen, ob und wie sein Werk
+zu veröffentlichen ist. Nach herrschender Meinung erfasst § 12 :abbr:`UrhG(Urheberrechtsgesetz)` nur
 die Erstveröffentlichung eines Werks und räumt dem Urheber damit das
 Recht ein, sich gegen die unerlaubte öffentliche Zugänglichmachung
 seiner Werke, die noch nicht an die Öffentlichkeit gelangt sind, zur
 Wehr zu setzen. Hat der Urheber sein Werk aber bereits der
 Öffentlichkeit einmal zur Verfügung gestellt, wird das
-Veröffentlichungsrecht nach § 12 UrhG verbraucht. Dem Urheber stehen
+Veröffentlichungsrecht nach § 12 :abbr:`UrhG(Urheberrechtsgesetz)` verbraucht. Dem Urheber stehen
 dann Abwehrrechte gegen unerlaubte Publikationen seines Fotos nur aus
 dem Vervielfältigungsrecht, dem Verbreitungsrecht und dem Recht der
 öffentlichen Zugänglichmachung zu.
 
-Das „Recht der öffentlichen Zugänglichmachung“ gem. § 19a UrhG ist ein
+Das „Recht der öffentlichen Zugänglichmachung“ gem. § 19a :abbr:`UrhG(Urheberrechtsgesetz)` ist ein
 eigenes Verwertungsrecht und wird oftmals als „Online-Recht“ bezeichnet,
 weil es erforderlich ist, um ein urheberrechtlich geschütztes Werk auf
 einer Website zum Abruf bereit zu stellen. Aber auch das Angebot in
-mobilen Medien (z. B. Mobiltelefone) wird von dem „Recht der
+mobilen Medien (:abbr:`z. B.(zum Beispiel)` Mobiltelefone) wird von dem „Recht der
 öffentlichen Zugänglichmachung“ erfasst.
 
 Gibt es ein allgemeines wissenschaftliches Zitatrecht, d. h. können Bilder, die nicht kommerziell eingebunden werden, pauschal gemeinfrei von Wissenschaftlern genutzt werden?
@@ -674,8 +674,8 @@ Für die wissenschaftliche Nutzung existieren Schranken des
 Urheberrechts, die aber keine pauschale freie Nutzung durch
 Wissenschaftler erlauben, sondern an konkreten Nutzungsformen anknüpfen.
 Dies ist neben der unter engen Voraussetzungen zulässigen „Öffentliche
-Zugänglichmachung für Unterricht und Forschung (§ 52a UrhG), das
-Zitatrecht des § 51 UrhG.
+Zugänglichmachung für Unterricht und Forschung (§ 52a :abbr:`UrhG(Urheberrechtsgesetz)`), das
+Zitatrecht des § 51 :abbr:`UrhG(Urheberrechtsgesetz)`.
 
 Das Zitatrecht gestattet im Bildbereich, dass in einem eigenen
 wissenschaftlichen Werk *eigene* Fotos von anderen Werken zur

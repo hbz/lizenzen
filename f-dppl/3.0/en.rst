@@ -6,16 +6,16 @@ Free Digital Peer Publishing Lizenz (v3, en)
 
 HTML Version of the f-DPPL (Version 3, English) 
 
-Version 3.0 – November 2008
+Version 3.0 -- November 2008
 
-Copyright © 2004-2008 Ministerium für Innovation, Wissenschaft,
+Copyright © 2004--2008 Ministerium für Innovation, Wissenschaft,
 Forschung und Technologie des Landes Nordrhein-Westfalen (Ministry of
 Innovation, Science, Research and Technology, State of North-Rhine
 Westphalia)
 
 Developed and created by Axel Metzger and Till Jaeger, Institut für
 Rechtsfragen der Freien und Open Source Software (Institute for Legal
-Issues on Free and Open Source Software), http://www.ifross.de/
+Issues on Free and Open Source Software), https://www.ifross.org/
 
 Preamble
 --------
@@ -30,7 +30,7 @@ communication in data networks. The digitisation enables researches to
 change documents more easily and thus facilitates interactive scientific
 collaboration. This process is expressly supported by the leading German
 research organisations in the Berlin Declaration
-(http://www.zim.mpg.de/openaccess-berlin/berlindeclaration.html).
+(https://openaccess.mpg.de/Berliner-Erklaerung).
 
 The new communication possibilities allow academic content in its
 original or in an altered form to be disseminated in a decentralised
@@ -39,7 +39,7 @@ Scientific researchers are regularly interested in making their findings
 widely available at a high level of quality. The Free DPPL Licence
 therefore permits the passing on of copyrighted material. It furthermore
 grants permission to modify Works and allows the dissemination of
-altered versions in order  to facilitate collaboration between
+altered versions in order to facilitate collaboration between
 scientists. The aim of this Free Digital Peer Publishing Licence is to
 ensure that this process takes place in a fair, transparent and secure
 way for all those involved.
@@ -101,7 +101,7 @@ it available for downloading.
 freely accessible to any party and which may be implemented in a
 computer program by any party, without limitations and free of licence
 fees, e.g. Open Document Format (ODP), Portable Document Format (PDF),
-DocBook XML and Hypertext Markup Language (HTML) .
+DocBook XML and Hypertext Markup Language (HTML).
 
 (e) "You": The licensee - any party concluding this license agreement.
 
@@ -248,7 +248,7 @@ agreement, You shall always include the text of this licence in both
 languages accompanying the Work, or quote a source under this licence
 may permanently be retrieved by electronic means in the usual way,
 preferably by download from the Internet. The licence can be downloaded
-from http://nbn-resolving.de/urn:nbn:de:0009-fdppl-v3-en3
+from https://lizenzen.hbz-nrw.de/f-dppl/3.0/en
 
 (2) You may neither alter nor remove references to this licence which
 the author or holder of an exclusive right to Use has added to the Work.
@@ -377,8 +377,7 @@ consideration of the objective and purpose of the license agreement.
 of North-Rhine Westphalia (or its legal successor) may bring new
 versions of the license agreement into force with binding effect in case
 this is necessary and appropriate. New versions of the license agreement
-shall be made available in the Internet at
-`http://www.dipp.nrw.de/ <../../../>`__ with an express version number.
+shall be made available in the Internet at https://lizenzen.hbz-nrw.de/ with an express version number.
 The new version of the license agreement shall come into binding effect
 for You at the time when You become aware of its publication. Statutory
 redress against the alteration of the license agreement shall not
@@ -398,16 +397,16 @@ In order to enable any party to conclude this license agreement, it is
 recommended that You provide the Work with the following reference to
 the license agreement:
 
-"Any party may modify and pass on this Work as physical copies and by
-electronic means and make it available for download under the terms and
-conditions of the Free Digital Peer Publishing Licence (f-DPPL). The
-text of the licence may be accessed and retrieved via Internet at
-http://nbn-resolving.de/urn:nbn:de:0009-fdppl-v3-en3."
+    "Any party may modify and pass on this Work as physical copies and by
+    electronic means and make it available for download under the terms and
+    conditions of the Free Digital Peer Publishing Licence (f-DPPL). The
+    text of the licence may be accessed and retrieved via Internet at
+    https://lizenzen.hbz-nrw.de/f-dppl/3.0/en."
 
 If the work is combined with other content that may be used under
 different licence terms (Creative Commons Licence "Attribution" or GNU
 Free Documentation License) you should amend the licence notice as
 follows:
 
-"Contents owned by third parties are identified by appropriate notice
-and may be used under the terms of the indicated license terms."
+    "Contents owned by third parties are identified by appropriate notice
+    and may be used under the terms of the indicated license terms."

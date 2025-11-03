@@ -114,7 +114,7 @@ müssen sie mitliefern:
 #. alle Vermerke im Source Code und/oder Object Code, die über die
    Urheber des Programms Auskunft geben;
 #. einen für den Empfänger deutlich wahrnehmbaren Hinweis auf diese
-   Lizenz und die Internetadresse http://www.d-fsl.de;
+   Lizenz und die Internetadresse https://lizenzen.hbz-nrw.de/;
 #. den vollständigen Text dieser Lizenz in deutlich wahrnehmbarer Weise.
 
 (2) Wenn bei der Installation des Programms und/oder beim Programmstart
@@ -175,8 +175,7 @@ beurteilt sich nach Ziffer 2 b) der GPL. Diese Bestimmung lautet: "You
 must cause any work that you distribute or publish, that in whole or in
 part contains or is derived from the Program or any part thereof, to be
 licensed as a whole at no charge to all third parties under the terms of
-this License." Die GPL kann abgerufen werden unter
-`http://www.fsf.org/licenses/gpl <http://www.fsf.org/licenses/gpl>`__.
+this License." Die GPL kann abgerufen werden unter https://www.gnu.org/licenses/gpl-3.0.
 
 (4) Wenn Sie das Programm in einer veränderten Form verbreiten oder
 öffentlich zugänglich machen, müssen Sie im Source Code einen Hinweis
@@ -308,7 +307,7 @@ Zwecks der Lizenz am besten miteinander in Einklang bringt.
 (2) Der Lizenzrat der Deutschen Freien Software Lizenz kann mit
 verbindlicher Wirkung neue Versionen der Lizenz in Kraft setzen, soweit
 dies erforderlich und zumutbar ist. Neue Versionen der Lizenz werden auf
-der Internetseite http://www.d-fsl.de mit einer eindeutigen
+der Internetseite https://lizenzen.hbz-nrw.de/ mit einer eindeutigen
 Versionsnummer veröffentlicht. Die neue Version der Lizenz erlangt für
 Sie verbindliche Wirkung, wenn Sie von deren Veröffentlichung Kenntnis
 genommen haben. Gesetzliche Rechtsbehelfe gegen die Änderung der Lizenz
@@ -328,11 +327,9 @@ Anhang: Wie unterstellen Sie ein Programm der Deutschen Freien Software Lizenz?
 Um jedermann den Abschluss dieser Lizenz zu ermöglichen, wird empfohlen,
 das Programm mit folgendem Hinweis auf die Lizenz zu versehen:
 
-::
-
    "Copyright (C) 20[jj] [Name des Rechtsinhabers].
 
    Dieses Programm kann durch jedermann gemäß den Bestimmungen der
    Deutschen Freien Software Lizenz genutzt werden.
 
-   Die Lizenz kann unter http://www.d-fsl.de abgerufen werden."
+   Die Lizenz kann unter https://lizenzen.hbz-nrw.de/m-dppl/3.0/en abgerufen werden."

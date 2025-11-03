@@ -14,7 +14,7 @@ Westphalia)
 
 Developed and created by Axel Metzger and Till Jaeger, Institut für
 Rechtsfragen der Freien und Open Source Software (Institute for Legal
-Issues on Free and Open Source Software), http://www.ifross.de/
+Issues on Free and Open Source Software), https://www.ifross.org/
 
 Preamble
 --------
@@ -27,7 +27,7 @@ or even replaced by electronic versions. At the same time, researchers
 and scientists pass on their sources of all kinds by means of individual
 communication in data networks. This process is expressly supported by
 the leading German research organisations in the Berlin Declaration
-(http://www.zim.mpg.de/openaccess-berlin/berlindeclaration.html).
+(https://openaccess.mpg.de/Berliner-Erklaerung).
 
 The new communication possibilities allow academic content to be
 disseminated in a decentralised manner - in a fast, transparent way,
@@ -239,8 +239,7 @@ agreement, You shall always include the text of this licence in the
 German and the English language accompanying the Work, or to quote a
 source under which both versions of this licence may be permanently be
 retrieved by electronic means in the usual way, preferably by download
-from the Internet, for example from the site
-`http://www.dipp.nrw.de/. <../../../>`__
+from the Internet, for example from the site https://lizenzen.hbz-nrw.de/.
 
 (2) You may neither alter nor remove references to this licence which
 the author or holder of an exclusive right to Use has added to the Work.
@@ -261,7 +260,7 @@ to paragraph 1, You may not remove or alter any notice stating that the
 Creative Commons license applies to the other content and you may not
 use the Work without the other content. You have to comply with the
 terms of the Creative Commons license for Your use of the other
-content.  
+content.
 
 (3) You may not use any combination of the Work with other content.
 
@@ -347,8 +346,8 @@ consideration of the objective and purpose of the license agreement.
 of North-Rhine Westphalia (or its legal successor) may bring new
 versions of the license agreement into force with binding effect in case
 this is necessary and appropriate. New versions of the license agreement
-shall be made available in the Internet at
-`http://www.dipp.nrw.de/ <../../../>`__ with an express version number.
+shall be made available in the Internet at https://lizenzen.hbz-nrw.de/ 
+with an express version number.
 The new version of the license agreement shall come into binding effect
 for You at the time when You become aware of its publication. Statutory
 redress against the alteration of the license agreement shall not
@@ -370,15 +369,14 @@ In order to enable any party to conclude this license agreement, it is
 recommended that You provide the Work with the following reference to
 the license agreement:
 
-"Any party may pass on this Work by electronic means and make it
-available for download under the terms and conditions of the Digital
-Peer Publishing Licence (DPPL). The text of the licence may be accessed
-and retrieved via Internet at
-http://nbn-resolving.de/urn:nbn:de:0009-dppl-v3-en8 ."
+    "Any party may pass on this Work by electronic means and make it
+    available for download under the terms and conditions of the Digital
+    Peer Publishing Licence (DPPL). The text of the licence may be accessed
+    and retrieved via Internet at https://lizenzen.hbz-nrw.de/f-dppl/3.0/en."
 
 If the Licensor has combined the Work with other content that may be
 used under different licence terms (Creative Commons Licence
 "Attribution") you should amend the licence notice as follows:
 
-"Contents owned by third parties are identified by appropriate notice
-and may be used under the terms of the indicated license terms."
+    "Contents owned by third parties are identified by appropriate notice
+    and may be used under the terms of the indicated license terms."

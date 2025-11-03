@@ -5,13 +5,13 @@ Modulare Digital Peer Publishing Lizenz (v1, de)
 
 HTML Version der Digital Peer Publishing Lizenz (Version 1, Deutsch) 
 
-Version 1.0 - November 2004
+Version 1.0 -- November 2004
 
 Copyright © 2004 Ministerium für Wissenschaft und Forschung des Landes
-Nordrhein-­Westfalen
+Nordrhein-Westfalen
 
 Erstellt von Axel Metzger und Till Jaeger, Institut für Rechtfragen der
-Freien und Open Source Software, http://www.ifross.de
+Freien und Open Source Software, https://www.ifross.org
 
 Präambel
 --------
@@ -25,8 +25,8 @@ Wissenschaftler Quellen aller Art in Datennetzen im Wege der
 Individual­kommunikation weiter. Die Digitalisierung ermöglicht die
 Veränderung von Dokumenten. Dies erleichtert die interaktive
 Zusammenarbeit von Wissenschaftlern. Ein Prozess, der von den führenden
-deutschen Forschungs­organisationen mit der Berliner Erklärung (
-http://www.zim.mpg.de/openaccess-berlin/berlindeclaration.html)
+deutschen Forschungs­organisationen mit der Berliner Erklärung
+(https://openaccess.mpg.de/Berliner-Erklaerung)
 ausdrücklich unterstützt wird.
 
 Diese neuen Möglichkeiten der Kommunikation gestatten eine dezentrale
@@ -48,7 +48,7 @@ Modularen DiPP Lizenz.
 Die Modulare DiPP Lizenz bietet die lizenzrechtliche Grundlage für eine
 entsprechende Verbreitung von Dokumenten in E-Journals. Die Lizenz
 gestattet jedermann die Weitergabe des Dokuments in elektronischer Form,
-z. B. es in Netzwerken öffentlich zur Verfügung zu stellen.
+:abbr:`z. B.(zum Beispiel)` es in Netzwerken öffentlich zur Verfügung zu stellen.
 
 Die Weitergabe durch andere ist allerdings an Pflichten geknüpft,
 insbesondere im Hinblick auf die Nennung der Autoren und Rechtsinhaber
@@ -119,7 +119,7 @@ Abschluss dieses Lizenzvertrages anbieten.
 (d) "Metadaten": Maschinenlesbare, strukturierte Informationen über das
 Werk, die in diesem enthalten sind und die der vereinfachten
 maschinellen Auffindbarkeit des Werkes und/oder einer effizienten
-Verwaltung von Datenbeständen dienen (z. B. "HTML-Metatags").
+Verwaltung von Datenbeständen dienen (:abbr:`z. B.(zum Beispiel)` "HTML-Metatags").
 
 (e) "Metadatenmodell": Eine standardisierte Struktur für die Erfassung
 von Metadaten mit definierten Elementen zur Ressourcen­beschreibung (z.
@@ -127,7 +127,7 @@ B. "Dublin Core Metadata Element Set").
 
 (f) "Nutzung": Jede Verwendung des Werkes, für die urheberrechtlich eine
 Erlaubnis des Urhebers oder des Inhabers eines ausschließlichen
-Nutzungsrechts erforderlich ist, z. B. die Weitergabe des Werkes oder
+Nutzungsrechts erforderlich ist, :abbr:`z. B.(zum Beispiel)` die Weitergabe des Werkes oder
 die Bereitstellung zum Download.
 
 (g) "Offenes Dateiformat": Ein Dokumentenformat, das in einem für
@@ -139,7 +139,7 @@ implementiert werden darf.
 abschließt.
 
 (i) "Veränderbare Werkteile": Diejenigen Teile des Werks, die eindeutig
-als veränderbare Werkteile gekennzeichnet sind (z. B. durch eine
+als veränderbare Werkteile gekennzeichnet sind (:abbr:`z. B.(zum Beispiel)` durch eine
 farbliche oder sonstige grafische Hervorhebung und eine unzweifelhafte
 Bezeichnung als "veränderbarer Werkteil"). Ein Hinweis auf die
 veränderbaren Werkteile kann in der History erfolgen.
@@ -152,7 +152,7 @@ eine zustimmungsfreie Veröffentlichung und einen zustimmungsfreien
 Vertrieb gestattet ("freie Benutzung").
 
 (k) "Vervielfältigungsstück": Ein verkörpertes Werkexemplar, also das
-Werk in gegen­ständlicher Form (z. B. als gedrucktes Buch oder auf
+Werk in gegen­ständlicher Form (:abbr:`z. B.(zum Beispiel)` als gedrucktes Buch oder auf
 CD-ROM).
 
 (l) "Werk": Das urheberrechtlich geschützte Werk sowie jeder sonstige,
@@ -247,7 +247,7 @@ für die Präsentation des Werkes eignet.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 (1) Wenn Sie das Werk unverändert nutzen, müssen Sie die Namensnennung
-von Urhebern - z. B. Urheber- oder Copyright­vermerke - in der
+von Urhebern - :abbr:`z. B.(zum Beispiel)` Urheber- oder Copyright­vermerke - in der
 vorgefundenen Art und Weise übernehmen. Gleiches gilt für die Nennung
 der Inhaber eines ausschließlichen Nutzungsrechts, sofern diese im
 Zusammen­hang mit dem Werk genannt werden.
@@ -325,8 +325,7 @@ Lizenzvertrags gestattet sind, müssen Sie dem Werk stets diesen
 Lizenztext in beiden Sprachfassungen beifügen oder eine Quelle angeben,
 unter der der Lizenztext auf elektronischem Weg dauerhaft und in
 üblicher Weise in beiden Sprachfassungen abrufbar ist, bevorzugt durch
-Download aus dem
-`Internet <resolveuid/973b60efcef64fa7b710ad63f289a5dc>`__.
+Download aus dem `Internet <https://lizenzen.hbz-nrw.de/>`__.
 
 (2) Hinweise auf diese Lizenz, die der Urheber oder der Inhaber eines
 ausschließlichen Nutzungsrechts dem Werk hinzugefügt hat, dürfen Sie
@@ -415,8 +414,7 @@ Zwecks des Lizenzvertrags am besten miteinander in Einklang bringt.
 Das Ministerium für Wissenschaft und Forschung Nordrhein-Westfalen kann
 mit verbindlicher Wirkung neue Versionen des Lizenzvertrags in Kraft
 setzen, soweit dies erforderlich und zumutbar ist. Neue Versionen des
-Lizenzvertrags werden
-`hier <resolveuid/973b60efcef64fa7b710ad63f289a5dc>`__ mit einer
+Lizenzvertrags werden `hier <https://lizenzen.hbz-nrw.de/>`__ mit einer
 eindeutigen Versionsnummer veröffentlicht. Die neue Version des
 Lizenzvertrags erlangt für Sie verbindliche Wirkung, wenn Sie von deren
 Veröffentlichung Kenntnis genommen haben. Gesetzliche Rechtsbehelfe
@@ -438,8 +436,8 @@ Um jedermann den Abschluss dieses Lizenzvertrages zu ermöglichen, wird
 empfohlen, das Werk mit folgendem Hinweis auf den Lizenzvertrag zu
 versehen:
 
-"Jedermann darf dieses Werk unter den Bedingungen der Modularen DiPP
-Lizenz elektronisch übermitteln, zum Download bereitstellen und dabei
-die als veränderbaren Werkteile gekennzeichneten Werkteile beliebig
-verändern. Der Lizenztext ist im
-`Internet <resolveuid/47ce4825d47182b428d1b8fe249e9aba>`__ abrufbar.
+    "Jedermann darf dieses Werk unter den Bedingungen der Modularen DiPP
+    Lizenz elektronisch übermitteln, zum Download bereitstellen und dabei
+    die als veränderbaren Werkteile gekennzeichneten Werkteile beliebig
+    verändern. Der Lizenztext ist im
+    `Internet <https://lizenzen.hbz-nrw.de/m-dppl/1.0/de>`__ abrufbar.

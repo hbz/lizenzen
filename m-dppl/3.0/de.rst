@@ -5,13 +5,13 @@ Modulare Digital Peer Publishing Lizenz (v3, de)
 
 HTML Version der modularen Digital Peer Publishing Lizenz (Version 3, Deutsch)
 
-Version 3.0 - November 2008
+Version 3.0 -- November 2008
 
 Copyright © 2004 - 2008 Ministerium für Innovation, Wissenschaft,
 Forschung und Technologie des Landes Nordrhein-Westfalen
 
 Erstellt von Axel Metzger und Till Jaeger, Institut für Rechtfragen der
-Freien und Open Source Software, http://www.ifross.de
+Freien und Open Source Software, https://www.ifross.org
 
 Präambel
 --------
@@ -22,17 +22,16 @@ tiefgreifend verändert. Dokumente sind in unübe­rschaubarer Menge in
 Wissenschaftsmedien, wie Fachjournals und Buchpublikationen, werden
 durch elektronische Angebote ergänzt oder sogar ersetzt. Zugleich geben
 Wissenschaftler Quellen aller Art in Datennetzen im Wege der
-Individual­kommunikation weiter. Die Digitalisierung ermöglicht die
+Individualkommunikation weiter. Die Digitalisierung ermöglicht die
 Veränderung von Dokumenten. Dies erleichtert die interaktive
 Zusammenarbeit von Wissenschaftlern. Ein Prozess, der von den führenden
-deutschen Forschungs­organisationen mit der Berliner Erklärung (
-http://www.zim.mpg.de/openaccess-berlin/berlindeclaration.html)
-ausdrücklich unterstützt wird.
+deutschen Forschungsorganisationen mit der Berliner Erklärung
+(https://openaccess.mpg.de/Berliner-Erklaerung) ausdrücklich unterstützt wird.
 
 Diese neuen Möglichkeiten der Kommunikation gestatten eine dezentrale
 Verbreitung wissenschaftlicher Inhalte in veränderter oder unveränderter
 Form - schnell, transparent und forschungsnah. Wissenschaftler sind
-regel­mäßig an der weiten, qualitätsvollen Ver­breitung ihrer
+regelmäßig an der weiten, qualitätsvollen Verbreitung ihrer
 Forschungsergebnisse interessiert. Die Modulare DPPL Lizenz gestattet
 deshalb die Weitergabe von urheberrechtlich geschützten Werken.
 
@@ -48,7 +47,7 @@ Modularen DPPL Lizenz.
 Die modulare DPPL Lizenz bietet die lizenzrechtliche Grundlage für eine
 entsprechende Verbreitung von Dokumenten in E-Journals. Die Lizenz
 gestattet jedermann die Weitergabe des Dokuments in elektronischer Form,
-z. B. es in Netzwerken öffentlich zur Verfügung zu stellen.
+:abbr:`z. B.(zum Beispiel)` es in Netzwerken öffentlich zur Verfügung zu stellen.
 
 Die Weitergabe durch andere ist allerdings an Pflichten geknüpft,
 insbesondere im Hinblick auf die Nennung der Autoren und Rechtsinhaber
@@ -81,11 +80,11 @@ die Rechte an den Werken bei ihnen liegen, oder die sonstigen Inhaber
 von ausschließlichen Nutzungsrechten an den Werken, insbesondere
 Arbeitgeber, Verlage etc. Allerdings ist hierbei zu beachten, dass die
 Modulare DPPL Lizenz pauschal jede Modifizierung der als veränderbar
-gekenn­zeichneten Teile des Werks gestattet. Um die Persönlichkeitsrechte
+gekennzeichneten Teile des Werks gestattet. Um die Persönlichkeitsrechte
 des Urhebers zu schützen ist es deshalb rechtlich zwingend erforderlich,
 dass der Urheber der Benutzung dieser Lizenz stets auch selbst zustimmt,
 selbst wenn er nicht mehr Inhaber der ausschließlichen wirtschaftlichen
-Nutzungs­rechte sein sollte.
+Nutzungsrechte sein sollte.
 
 Abschnitt 1: Definitionen
 -------------------------
@@ -93,7 +92,7 @@ Abschnitt 1: Definitionen
 § 1: Definitionen
 ~~~~~~~~~~~~~~~~~
 
-In diesem Lizenzvertrag werden die nach­folgend definierten Begriffe
+In diesem Lizenzvertrag werden die nachfolgend definierten Begriffe
 einheitlich verwendet:
 
 (a) "Digitale Signatur": Daten in elektronischer Form, die dem Werk
@@ -116,15 +115,14 @@ Abschluss dieses Lizenzvertrages anbieten.
 (d) "Metadaten": Maschinenlesbare, strukturierte Informationen über das
 Werk, die in diesem enthalten sind und die der vereinfachten
 maschinellen Auffindbarkeit des Werkes und/oder einer effizienten
-Verwaltung von Datenbeständen dienen (z. B. "HTML-Metatags").
+Verwaltung von Datenbeständen dienen (:abbr:`z. B.(zum Beispiel)` "HTML-Metatags").
 
 (e) "Metadatenmodell": Eine standardisierte Struktur für die Erfassung
-von Metadaten mit definierten Elementen zur Ressourcen­beschreibung (z.
-B. "Dublin Core Metadata Element Set").
+von Metadaten mit definierten Elementen zur Ressourcenbeschreibung (:abbr:`z. B.(zum Beispiel)` "Dublin Core Metadata Element Set").
 
 (f) "Nutzung": Jede Verwendung des Werkes, für die urheberrechtlich eine
 Erlaubnis des Urhebers oder des Inhabers eines ausschließlichen
-Nutzungsrechts erforderlich ist, z. B. die Weitergabe des Werkes oder
+Nutzungsrechts erforderlich ist, :abbr:`z. B.(zum Beispiel)` die Weitergabe des Werkes oder
 die Bereitstellung zum Download.
 
 (g) "Offenes Dateiformat": Ein Dokumentenformat, das in einem für
@@ -138,7 +136,7 @@ die Hypertext Markup Language (HTML).
 abschließt.
 
 (i) "Veränderbare Werkteile": Diejenigen Teile des Werks, die eindeutig
-als veränderbare Werkteile gekennzeichnet sind z. B. durch eine
+als veränderbare Werkteile gekennzeichnet sind :abbr:`z. B.(zum Beispiel)` durch eine
 farbliche oder sonstige grafische Hervorhebung und eine unzweifelhafte
 Bezeichnung als "veränderbarer Werkteil"). Ein Hinweis auf die
 veränderbaren Werkteile kann in der History erfolgen.
@@ -151,7 +149,7 @@ eine zustimmungsfreie Veröffentlichung und einen zustimmungsfreien
 Vertrieb gestattet ("freie Benutzung").
 
 (k) "Vervielfältigungsstück": Ein verkörpertes Werkexemplar, also das
-Werk in gegen­ständlicher Form z. B. als gedrucktes Buch oder auf
+Werk in gegen­ständlicher Form :abbr:`z. B.(zum Beispiel)` als gedrucktes Buch oder auf
 CD-ROM).
 
 (l) "Werk": Das urheberrechtlich geschützte Werk sowie jeder sonstige,
@@ -167,7 +165,7 @@ Abschnitt 2: Nutzungsrechte
 
 (1) Dieser Lizenzvertrag erlaubt Ihnen, zeitlich und räumlich
 unbeschränkt das Werk in elektronischer Form zu vervielfältigen, Dritten
-auf elektronischem Wege zu übermitteln, z. B. per E-Mail zu übersenden,
+auf elektronischem Wege zu übermitteln, :abbr:`z. B.(zum Beispiel)` per E-Mail zu übersenden,
 und öffentlich zugänglich zu machen, insbesondere durch Bereitstellung
 zum Download. Dabei sollen alle bekannten und unbekannten Nutzungsarten
 erfasst werden, die eine unkörperliche elektronische Vervielfältigung
@@ -199,7 +197,7 @@ unterbleiben (siehe § 6 Abs. 2).
 
 (2) Bei einer Veränderung des Werkes müssen Sie seinen Titel verändern.
 Hierfür genügt die Aufnahme eines Zusatzes, der die Veränderung des
-Werkes kenntlich macht (Versionsnummer o. ä.). Sie dürfen den Titel des
+Werkes kenntlich macht (Versionsnummer :abbr:`o. ä.(oder ähnliches)`). Sie dürfen den Titel des
 Werkes nicht verändern, wenn das Werk ansonsten inhaltlich unverändert
 genutzt wird.
 
@@ -227,7 +225,7 @@ Lizenzgeber.
 
 (1) Wenn Sie das Werk nutzen, dürfen Sie die weitere Nutzung durch
 Dritte nicht mittels technischer Schutzmaßnahmen, insbesondere durch den
-Einsatz von Kopierschutz­vorrichtungen jeglicher Art, verhindern oder
+Einsatz von Kopierschutzvorrichtungen jeglicher Art, verhindern oder
 erschweren. Eine passwortgeschützte Zugangsbeschränkung oder die Nutzung
 in einem Intranet wird nicht als technische Schutzmaßnahme angesehen.
 
@@ -243,17 +241,17 @@ für die Präsentation des Werkes eignet.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 (1) Wenn Sie das Werk unverändert nutzen, müssen Sie die Namensnennung
-von Urhebern - Urheber- oder Copyright­vermerke - in der vorgefundenen
+von Urhebern - Urheber- oder Copyrightvermerke - in der vorgefundenen
 Art und Weise übernehmen. Gleiches gilt für die Nennung der Inhaber
-eines ausschließlichen Nutzungsrechts, sofern diese im Zusammen­hang mit
+eines ausschließlichen Nutzungsrechts, sofern diese im Zusammenhang mit
 dem Werk genannt werden.
 
 (2) Wenn Sie das Werk in veränderter Form nutzen, dann dürfen die
 Urheber des ursprünglichen Werks nicht als Urheber der veränderten
 Werkteile bezeichnet werden. Sie müssen in diesem Fall aber in
-geeigneter Weise auf die ursprünglichen Urheber hinweisen, z. B. durch
+geeigneter Weise auf die ursprünglichen Urheber hinweisen, :abbr:`z. B.(zum Beispiel)` durch
 den Vermerk "Basierend auf einer Tabelle von xy". Im Hinblick auf die
-unveränderten Werkteile ist Abs. 1 anzuwenden.
+unveränderten Werkteile ist :abbr:`Abs.(Absatz)` 1 anzuwenden.
 
 (3) Sie können bei einer nicht völlig unerheblichen Veränderung des
 Werks einen Urheberrechtsvermerk mit Ihrem Namen oder Pseudonym
@@ -271,7 +269,7 @@ sicherstellen.
 ausschließlichen Nutzungs­rechts den nicht veränderbaren Werkteilen
 hinzugefügt hat und welche die Echtheit oder Herkunft des Werkes
 bestätigen, dürfen Sie nicht entfernen, es sei denn, dies ist
-erforderlich, um das Werk in ein anderes - nach § 5 Abs. 2 zulässiges -
+erforderlich, um das Werk in ein anderes - nach § 5 :abbr:`Abs.(Absatz)` 2 zulässiges -
 Dateiformat zu konvertieren.
 
 § 7: Zitierung und Metadaten
@@ -285,7 +283,7 @@ verändern noch entfernen. Sie dürfen aber zusätzliche bibliographische
 Angaben hinzufügen.
 
 (2) Wenn Sie das Werk in veränderter Weise nutzen, so müssen Sie die
-Fundstelle (insbesondere die vollständige Internet­adresse) angeben, an
+Fundstelle (insbesondere die vollständige Internetadresse) angeben, an
 der Sie das Werk in der von Ihnen für die Veränderung verwendeten Form
 erhalten haben.
 
@@ -326,8 +324,8 @@ Lizenzvertrags gestattet sind, müssen Sie dem Werk stets diesen
 Lizenztext in beiden Sprachfassungen beifügen oder eine Quelle angeben,
 unter der der Lizenztext auf elektronischem Weg dauerhaft und in
 üblicher Weise in beiden Sprachfassungen abrufbar ist, bevorzugt durch
-Download aus dem Internet. Der Lizenztext ist im
-`Internet <resolveuid/05cb31a0f8ba42bf8dfc7e87c08f9833>`__ abrufbar.
+Download aus dem Internet. Der Lizenztext ist im `Internet <https://lizenzen.hbz-nrw.de/>`__
+abrufbar.
 
 (2) Hinweise auf diese Lizenz, die der Urheber oder der Inhaber eines
 ausschließlichen Nutzungsrechts dem Werk hinzugefügt hat, dürfen Sie
@@ -345,7 +343,7 @@ haben. Sie können dabei einen Urhebervermerk anbringen.
 (1) Der Lizenzgeber darf das Werk mit einem anderen Inhalt, der unter
 der Creative Commons-Lizenz "Namensnennung" ("Attribution) genutzt
 werden darf, für eine gemeinsame Nutzung verbinden, sofern das Werk und
-der andere Inhalt weiterhin selbstständig verwertbar bleiben (z. B.
+der andere Inhalt weiterhin selbstständig verwertbar bleiben (:abbr:`z. B.(zum Beispiel)`
 Kombination von Text und Foto).
 
 (2) Hat der Lizenzgeber das Werk mit einem anderen Inhalt gemäß Absatz 1
@@ -358,7 +356,7 @@ Lizenzbedingungen der Creative Commons-Lizenz "Namensnennung"
 (3) Wenn Sie das Werk mit einem anderen Inhalt, der unter der Creative
 Commons-Lizenz "Namensnennung" ("Attribution") genutzt werden darf, für
 eine gemeinsame Nutzung verbinden, bei der das Werk und der andere
-Inhalt weiterhin selbständig verwertbar bleiben (z. B. Kombination von
+Inhalt weiterhin selbständig verwertbar bleiben (:abbr:`z. B.(zum Beispiel)` Kombination von
 Foto und Text), so findet diese Lizenz nur auf das Werk Anwendung. Sie
 dürfen die Hinweise auf die Lizenzbedingungen der Creative
 Commons-Lizenz "Namensnennung" ("Attribution") weder verändern noch
@@ -414,7 +412,7 @@ Lizenzvertrags.
 
 (2) Etwaige gesetzliche Ansprüche des Lizenzgebers wegen der
 Inanspruchnahme dieser Befugnisse bleiben vorbehalten und können durch
-Verwertungsgesellschaften wahrgenommen werden (z. B. Pauschalabgaben auf
+Verwertungsgesellschaften wahrgenommen werden (:abbr:`z. B.(zum Beispiel)` Pauschalabgaben auf
 Leermedien).
 
  
@@ -461,7 +459,7 @@ Zwecks des Lizenzvertrags am besten miteinander in Einklang bringt.
 Technologie des Landes Nordrhein-Westfalen kann mit verbindlicher
 Wirkung neue Versionen des Lizenzvertrags in Kraft setzen, soweit dies
 erforderlich und zumutbar ist. Neue Versionen des Lizenzvertrags werden
-im `Internet <resolveuid/973b60efcef64fa7b710ad63f289a5dc>`__ mit einer
+im `Internet <https://lizenzen.hbz-nrw.de/>`__ mit einer
 eindeutigen Versionsnummer veröffentlicht. Die neue Version des
 Lizenzvertrags erlangt für Sie verbindliche Wirkung, wenn Sie von deren
 Veröffentlichung Kenntnis genommen haben. Gesetzliche Rechtsbehelfe
@@ -483,16 +481,15 @@ Um jedermann den Abschluss dieses Lizenzvertrages zu ermöglichen, wird
 empfohlen, das Werk mit folgendem Hinweis auf den Lizenzvertrag zu
 versehen:
 
-"Jedermann darf dieses Werk unter den Bedingungen der Modularen DPPL
-Lizenz elektronisch übermitteln, zum Download bereitstellen und dabei
-die als veränderbaren Werkteile gekennzeichneten Werkteile beliebig
-verändern. Der Lizenztext ist im
-`Internet <resolveuid/50358bf3b81f9c315c38068f04c33f5f>`__ abrufbar.
+    "Jedermann darf dieses Werk unter den Bedingungen der Modularen DPPL
+    Lizenz elektronisch übermitteln, zum Download bereitstellen und dabei
+    die als veränderbaren Werkteile gekennzeichneten Werkteile beliebig
+    verändern. Der Lizenztext ist im `Internet <https://lizenzen.hbz-nrw.de/m-dppl/3.0/de>`__ abrufbar.
 
 Sofern das Werk mit einem oder mehreren anderen Inhalten verbunden wird,
-die nach anderen Lizenzbedingungen genutzt werden können (z. B. nach
+die nach anderen Lizenzbedingungen genutzt werden können (:abbr:`z. B.(zum Beispiel)` nach
 einer Creative Commons-Lizenz oder der GNU Free Documentation License),
 so wird empfohlen, den Hinweis wie folgt zu ergänzen:
 
-"Inhalte Dritter sind durch entsprechende Hinweise gekennzeichnet und
-dürfen unter den jeweils angegebenen Lizenzbedingungen genutzt werden."
+    "Inhalte Dritter sind durch entsprechende Hinweise gekennzeichnet und
+    dürfen unter den jeweils angegebenen Lizenzbedingungen genutzt werden."

@@ -11,7 +11,7 @@ Copyright © 2004 Ministerium für Wissenschaft und Forschung des Landes
 Nordrhein-Westfalen
 
 Erstellt von Axel Metzger und Till Jaeger, Institut für Rechtfragen der
-Freien und Open Source Software, http://www.ifross.de
+Freien und Open Source Software, https://www.ifross.org
 
 Präambel
 --------
@@ -24,7 +24,7 @@ durch elektronische Angebote ergänzt oder sogar ersetzt. Zugleich geben
 Wissenschaftler Quellen aller Art in Datennetzen im Wege der
 Individualkommunikation weiter. Ein Prozess, der von den führenden
 deutschen Forschungsorganisationen, mit der Berliner Erklärung
-(http://www.zim.mpg.de/openaccess-berlin/berlindeclaration.html)
+(https://openaccess.mpg.de/Berliner-Erklaerung)
 ausdrücklich unterstützt wird.
 
 Diese neuen Möglichkeiten der Kommunikation gestatten eine dezentrale
@@ -39,7 +39,7 @@ Beteiligten zu gestalten, ist Ziel der Digital Peer Publishing Lizenz.
 Die Digital Peer Publishing Lizenz bietet die lizenzrechtliche Grundlage
 für eine entsprechende Verbreitung von Dokumenten in E-Journals. Die
 Lizenz gestattet jedermann die Weitergabe des Dokuments in
-elektronischer Form, z. B. es in Netzwerken öffentlich zur Verfügung zu
+elektronischer Form, :abbr:`z. B.(zum Beispiel)` es in Netzwerken öffentlich zur Verfügung zu
 stellen.
 
 Die Weitergabe durch andere ist allerdings an Pflichten geknüpft,
@@ -103,7 +103,7 @@ an dem Werk, die den Abschluss dieses Lizenzvertrages anbieten.
 (d) "Metadaten": Maschinenlesbare, strukturierte Informationen über das
 Werk, die in diesem enthalten sind und die der vereinfachten
 maschinellen Auffindbarkeit des Werkes und/oder einer effizienten
-Verwaltung von Datenbeständen dienen (z. B. "HTML-Metatags").
+Verwaltung von Datenbeständen dienen (:abbr:`z. B.(zum Beispiel)` "HTML-Metatags").
 
 (e) "Metadatenmodell": Eine standardisierte Struktur für die Erfassung
 von Metadaten mit definierten Elementen zur Ressourcenbeschreibung (z.
@@ -111,7 +111,7 @@ B. "Dublin Core Metadata Element Set").
 
 (f) "Nutzung": Jede Verwendung des Werkes, für die urheberrechtlich eine
 Erlaubnis des Urhebers oder des Inhabers eines ausschließlichen
-Nutzungsrechts erforderlich ist, z. B. die Weitergabe des Werkes oder
+Nutzungsrechts erforderlich ist, :abbr:`z. B.(zum Beispiel)` die Weitergabe des Werkes oder
 die Bereitstellung zum Download.
 
 (g) "Offenes Dateiformat": Ein Dokumentenformat, das in einem für
@@ -130,7 +130,7 @@ eine zustimmungsfreie Veröffentlichung und einen zustimmungsfreien
 Vertrieb gestattet ("freie Benutzung").
 
 (j) "Vervielfältigungsstück": Ein verkörpertes Werkexemplar, also das
-Werk in gegenständlicher Form (z. B. als gedrucktes Buch oder auf
+Werk in gegenständlicher Form (:abbr:`z. B.(zum Beispiel)` als gedrucktes Buch oder auf
 CD-ROM).
 
 (k) "Werk": Das urheberrechtlich geschützte Werk, an dem Nutzungsrechte
@@ -253,7 +253,7 @@ Lizenzvertrags gestattet sind, müssen Sie dem Werk stets diesen
 Lizenztext in deutscher und englischer Sprache beifügen oder eine Quelle
 angeben, unter der beide Lizenztexte auf elektronischem Weg dauerhaft
 und in üblicher Weise abrufbar ist, bevorzugt durch Download aus dem
-`Internet <resolveuid/973b60efcef64fa7b710ad63f289a5dc>`__.
+`Internet <https://lizenzen.hbz-nrw.de/>`__.
 
 (2) Hinweise auf diese Lizenz, die der Urheber oder der Inhaber eines
 ausschließlichen Nutzungsrechts dem Werk hinzugefügt hat, dürfen Sie
@@ -337,7 +337,7 @@ Einklang bringt.
 (oder sein Rechtsnachfolger) kann mit verbindlicher Wirkung neue
 Versionen des Lizenzvertrags in Kraft setzen, soweit dies erforderlich
 und zumutbar ist. Neue Versionen des Lizenzvertrags werden auf der
-`Internetseite <resolveuid/973b60efcef64fa7b710ad63f289a5dc>`__ mit
+`Internetseite <https://lizenzen.hbz-nrw.de/>`__ mit
 einer eindeutigen Versionsnummer veröffentlicht. Die neue Version des
 Lizenzvertrags erlangt für Sie verbindliche Wirkung, wenn Sie von deren
 Veröffentlichung Kenntnis genommen haben. Gesetzliche Rechtsbehelfe
@@ -359,9 +359,9 @@ Um jedermann den Abschluss dieses Lizenzvertrages zu ermöglichen, wird
 empfohlen, das Werk mit folgendem Hinweis auf den Lizenzvertrag zu
 versehen:
 
-"Jedermann darf dieses Werk unter den Bedingungen der Digital Peer
-Publishing Lizenz (DPPL) [hier die Versionsnummer angeben, sofern eine
-Lizenzierung unter einer bestimmten Version des Lizenzvertrags gewünscht
-ist] elektronisch übermitteln und zum Download bereitstellen. Der
-Lizenztext ist im
-`Internet <resolveuid/57a66534e10b78bdb4abdf5504fb580a>`__ abrufbar."
+    "Jedermann darf dieses Werk unter den Bedingungen der Digital Peer
+    Publishing Lizenz (DPPL) [hier die Versionsnummer angeben, sofern eine
+    Lizenzierung unter einer bestimmten Version des Lizenzvertrags gewünscht
+    ist] elektronisch übermitteln und zum Download bereitstellen. Der
+    Lizenztext ist im
+    `Internet <https://lizenzen.hbz-nrw.de/dppl/2.0/de>`__ abrufbar."

@@ -5,13 +5,13 @@ Freie Digital Peer Publishing Lizenz (v3, de)
 
 HTML Version der freien Digital Peer Publishing Lizenz (Version 3, Deutsch) 
 
-Version 3.0 - November 2008
+Version 3.0 -- November 2008
 
 Copyright © 2004 - 2008 Ministerium für Innovation, Wissenschaft,
 Forschung und Technologie des Landes Nordrhein-Westfalen
 
 Erstellt von Axel Metzger und Till Jaeger, Institut für Rechtfragen der
-Freien und Open Source Software, http://www.ifross.de/
+Freien und Open Source Software, https://www.ifross.org/
 
 Präambel
 --------
@@ -25,9 +25,8 @@ Wissenschaftler Quellen aller Art in Datennetzen im Wege der
 Individualkommunikation weiter. Die Digitalisierung ermöglicht die
 Veränderung von Dokumenten. Dies erleichtert die interaktive
 Zusammenarbeit von Wissenschaftlern. Ein Prozess, der von den führenden
-deutschen Forschungsorganisationen mit der Berliner Erklärung (
-` <http://www.zim.mpg.de/openaccess-berlin/berlindeclaration.html>`__
-http://www.zim.mpg.de/openaccess-berlin/berlindeclaration.html)
+deutschen Forschungsorganisationen mit der Berliner Erklärung
+(https://openaccess.mpg.de/Berliner-Erklaerung)
 ausdrücklich unterstützt wird.
 
 Diese neuen Möglichkeiten der Kommunikation gestatten eine dezentrale
@@ -42,7 +41,7 @@ Wissenschaftlern zu erleichtern. Diesen Prozess fair und sicher für alle
 Beteiligten zu gestalten, ist Ziel der Freien DPPL Lizenz.
 
 Die Freie DPPL Lizenz bietet die lizenzrechtliche Grundlage für eine
-entsprechende Verbreitung von Dokumenten in elektronischer Form, z. B.
+entsprechende Verbreitung von Dokumenten in elektronischer Form, :abbr:`z. B.(zum Beispiel)`
 in E-Journals, oder in körperlicher Form, etwa in Druckform oder auf
 Trägermedien. Die Nutzung von Werken ist an Pflichten geknüpft. Wer das
 Werk unverändert weitergibt, muss die Autoren und Rechtsinhaber nennen
@@ -91,7 +90,7 @@ Abschluss dieses Lizenzvertrages anbieten.
 
 (c) "Nutzung": Jede Verwendung des Werkes, für die urheberrechtlich eine
 Erlaubnis des Urhebers oder des Inhabers eines ausschließlichen
-Nutzungsrechts erforderlich ist, z. B. die unveränderte oder veränderte
+Nutzungsrechts erforderlich ist, :abbr:`z. B.(zum Beispiel)` die unveränderte oder veränderte
 Weitergabe des Werkes oder die Bereitstellung zum Download.
 
 (d) "Offenes Dateiformat": Ein Dokumentenformat, das in einem für
@@ -112,7 +111,7 @@ eine zustimmungsfreie Veröffentlichung und einen zustimmungsfreien
 Vertrieb gestattet ("freie Benutzung").
 
 (g) "Vervielfältigungsstück": Ein verkörpertes Werkexemplar, also das
-Werk in gegenständlicher Form (z. B. als gedrucktes Buch oder auf
+Werk in gegenständlicher Form (:abbr:`z. B.(zum Beispiel)` als gedrucktes Buch oder auf
 CD-ROM).
 
 (h) "Werk": Das urheberrechtlich geschützte Werk sowie jeder sonstige,
@@ -130,7 +129,7 @@ Abschnitt 2: Nutzungsrechte
 (1) Dieser Lizenzvertrag erlaubt Ihnen, zeitlich und räumlich
 unbeschränkt das Werk auf beliebigen Trägermedien, insbesondere in
 Druckform, zu vervielfältigen, zu verbreiten, Dritten auf elektronischem
-Wege zu übermitteln, z. B.  per E-Mail zu übersenden, öffentlich
+Wege zu übermitteln, :abbr:`z. B.(zum Beispiel)`  per E-Mail zu übersenden, öffentlich
 zugänglich zu machen, insbesondere durch Bereitstellung zum Download, 
 und auf andere Weise öffentlich wiederzugeben. Dabei sollen alle
 bekannten und unbekannten Nutzungsarten erfasst werden.
@@ -206,7 +205,7 @@ dem Werk genannt werden.
 (2) Wenn Sie das Werk in veränderter Form nutzen, dann dürfen die
 Urheber des ursprünglichen Werks nicht als Urheber des veränderten Werks
 bezeichnet werden. Sie müssen in diesem Fall aber in geeigneter Weise
-auf die ursprünglichen Urheber hinweisen, z. B. durch den Vermerk
+auf die ursprünglichen Urheber hinweisen, :abbr:`z. B.(zum Beispiel)` durch den Vermerk
 "Basierend auf einer Studie von xy".
 
 (3) Sie können bei einer nicht völlig unerheblichen Veränderung des
@@ -260,8 +259,7 @@ Lizenzvertrags gestattet sind, müssen Sie dem Werk stets diesen
 Lizenztext in beiden Sprachfassungen beifügen oder eine Quelle angeben,
 unter der der Lizenztext auf elektronischem Weg dauerhaft und in
 üblicher Weise in beiden Sprachfassungen abrufbar ist, bevorzugt durch
-Download aus dem
-`Internet. <resolveuid/dd68df87ce494c8d1bbf1fa02bf7c6dd>`__
+Download aus dem `Internet <https://lizenzen.hbz-nrw.de/>`__.
 
 (2) Hinweise auf diese Lizenz, die der Urheber oder der Inhaber eines
 ausschließlichen Nutzungsrechts dem Werk hinzugefügt hat, dürfen Sie
@@ -279,7 +277,7 @@ haben. Sie können dabei einen Urhebervermerk anbringen.
 (1) Der Lizenzgeber darf das Werk mit einem anderen Inhalt, der unter
 der Creative Commons-Lizenz "Namensnennung" ("Attribution") genutzt
 werden darf, für eine gemeinsame Nutzung verbinden, sofern das Werk und
-der andere Inhalt weiterhin selbstständig verwertbar bleiben (z. B.
+der andere Inhalt weiterhin selbstständig verwertbar bleiben (:abbr:`z. B.(zum Beispiel)`
 Kombination von Text und Foto).
 
 (2) Hat der Lizenzgeber das Werk mit einem anderen Inhalt gemäß Absatz 1
@@ -291,7 +289,7 @@ beachten.
 (3) Wenn Sie das Werk mit einem anderen Inhalt, der unter der Creative
 Commons-Lizenz "Namensnennung" ("Attribution") genutzt werden darf, für
 eine gemeinsame Nutzung verbinden, bei der das Werk und der andere
-Inhalt weiterhin selbständig verwertbar bleiben (z. B. Kombination von
+Inhalt weiterhin selbständig verwertbar bleiben (:abbr:`z. B.(zum Beispiel)` Kombination von
 Foto und Text), so findet diese Lizenz nur auf das Werk Anwendung. Sie
 dürfen die Hinweise auf die Lizenzbedingungen der Creative
 Commons-Lizenz "Namensnennung" ("Attribution") weder verändern noch
@@ -301,7 +299,7 @@ beachten.
 (4) Wenn Sie das Werk mit einem anderen Inhalt, der unter der Creative
 Commons-Lizenz "Namensnennung" ("Attribution") genutzt werden darf, für
 eine gemeinsame Nutzung verbinden, bei der das Werk und der andere
-Inhalt nicht mehr selbständig verwertbar sind (z. B. Einfügen von Text
+Inhalt nicht mehr selbständig verwertbar sind (:abbr:`z. B.(zum Beispiel)` Einfügen von Text
 in einen anderen Text), müssen Sie die lizenzgebührenfreie Nutzung des
 gesamten veränderten Werks nach den Bestimmungen der Freien DPPL Lizenz
 durch jedermann gestatten und zusätzlich die Lizenzbedingungen der
@@ -355,7 +353,7 @@ nicht des Abschlusses dieses Lizenzvertrags.
 
 (2) Etwaige gesetzliche Ansprüche des Lizenzgebers wegen der
 Inanspruchnahme dieser Befugnisse bleiben vorbehalten und können durch
-Verwertungsgesellschaften wahrgenommen werden (z. B. Pauschalabgaben auf
+Verwertungsgesellschaften wahrgenommen werden (:abbr:`z. B.(zum Beispiel)` Pauschalabgaben auf
 Leermedien).
 
 Abschnitt 5: Haftung und Gewährleistung
@@ -402,7 +400,7 @@ Zwecks des Lizenzvertrags am besten miteinander in Einklang bringt.
 Technologie des Landes Nordrhein-Westfalen kann mit verbindlicher
 Wirkung neue Versionen des Lizenzvertrags in Kraft setzen, soweit dies
 erforderlich und zumutbar ist. Neue Versionen des Lizenzvertrags werden
-auf der Internetseite http://www.dipp.nrw.de mit einer eindeutigen
+auf der Internetseite https://lizenzen.hbz-nrw.de/ mit einer eindeutigen
 Versionsnummer veröffentlicht. Die neue Version des Lizenzvertrags
 erlangt für Sie verbindliche Wirkung, wenn Sie von deren
 Veröffentlichung Kenntnis genommen haben. Gesetzliche Rechtsbehelfe
@@ -425,15 +423,14 @@ Um jedermann den Abschluss dieses Lizenzvertrages zu ermöglichen, wird
 empfohlen, das Werk mit folgendem Hinweis auf den Lizenzvertrag zu
 versehen:
 
-"Jedermann darf dieses Werk unter den Bedingungen der Freien DPPL Lizenz
-unverändert oder verändert verbreiten und zum Download bereitstellen.
-Der Lizenztext ist im
-`Internet <resolveuid/81780e286976f47cb5532b05a487b701>`__ abrufbar.
+    "Jedermann darf dieses Werk unter den Bedingungen der Freien DPPL Lizenz
+    unverändert oder verändert verbreiten und zum Download bereitstellen.
+    Der Lizenztext ist im `Internet <https://lizenzen.hbz-nrw.de/f-dppl/3.0/de>`__ abrufbar."
 
 Sofern das Werk mit einem oder mehreren anderen Inhalten verbunden wird,
-die nach anderen Lizenzbedingungen genutzt werden können (z.B. nach
+die nach anderen Lizenzbedingungen genutzt werden können (:abbr:`z. B.(zum Beispiel)` nach
 einer Creative Commons-Lizenz oder der GNU Free Documentation License),
 so wird empfohlen, den Hinweis wie folgt zu ergänzen:
 
-"Inhalte Dritter sind durch entsprechende Hinweise gekennzeichnet und
-dürfen unter den jeweils angegebenen Lizenzbedingungen genutzt werden."
+    "Inhalte Dritter sind durch entsprechende Hinweise gekennzeichnet und
+    dürfen unter den jeweils angegebenen Lizenzbedingungen genutzt werden."

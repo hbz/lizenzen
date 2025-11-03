@@ -5,13 +5,13 @@ Freie Digital Peer Publishing Lizenz (v1, de)
 
 HTML Version der freien Digital Peer Publishing Lizenz (Version 1, Deutsch) 
 
-Version 1.0 - November 2004
+Version 1.0 -- November 2004
 
 Copyright © 2004 Ministerium für Wissenschaft und Forschung des Landes
 Nordrhein-Westfalen
 
 Erstellt von Axel Metzger und Till Jaeger, Institut für Rechtfragen der
-Freien und Open Source Software, http://www.ifross.de/
+Freien und Open Source Software, https://www.ifross.org/
 
 Präambel
 --------
@@ -26,7 +26,7 @@ Individualkommunikation weiter. Die Digitalisierung ermöglicht die
 Veränderung von Dokumenten. Dies erleichtert die interaktive
 Zusammenarbeit von Wissenschaftlern. Ein Prozess, der von den führenden
 deutschen Forschungsorganisationen mit der Berliner Erklärung (
-http://www.zim.mpg.de/openaccess-berlin/berlindeclaration.html)
+https://openaccess.mpg.de/Berliner-Erklaerung)
 ausdrücklich unterstützt wird.
 
 Diese neuen Möglichkeiten der Kommunikation gestatten eine dezentrale
@@ -41,7 +41,7 @@ Wissenschaftlern zu erleichtern. Diesen Prozess fair und sicher für alle
 Beteiligten zu gestalten, ist Ziel der Freien DiPP Lizenz.
 
 Die Freie DiPP Lizenz bietet die lizenzrechtliche Grundlage für eine
-entsprechende Verbreitung von Dokumenten in elektronischer Form, z. B.
+entsprechende Verbreitung von Dokumenten in elektronischer Form, :abbr:`z. B.(zum Beispiel)`
 in E-Journals, oder in körperlicher Form, etwa in Druckform oder auf
 Trägermedien. Die Nutzung von Werken ist an Pflichten geknüpft. Wer das
 Werk unverändert weitergibt, muss die Autoren und Rechtsinhaber nennen
@@ -90,7 +90,7 @@ Abschluss dieses Lizenzvertrages anbieten.
 
 (c) "Nutzung": Jede Verwendung des Werkes, für die urheberrechtlich eine
 Erlaubnis des Urhebers oder des Inhabers eines ausschließlichen
-Nutzungsrechts erforderlich ist, z. B. die unveränderte oder veränderte
+Nutzungsrechts erforderlich ist, :abbr:`z. B.(zum Beispiel)` die unveränderte oder veränderte
 Weitergabe des Werkes oder die Bereitstellung zum Download.
 
 (d) "Offenes Dateiformat": Ein Dokumentenformat, das in einem für
@@ -109,7 +109,7 @@ eine zustimmungsfreie Veröffentlichung und einen zustimmungsfreien
 Vertrieb gestattet ("freie Benutzung").
 
 (g) "Vervielfältigungsstück": Ein verkörpertes Werkexemplar, also das
-Werk in gegenständlicher Form (z. B. als gedrucktes Buch oder auf
+Werk in gegenständlicher Form (:abbr:`z. B.(zum Beispiel)` als gedrucktes Buch oder auf
 CD-ROM).
 
 (h) "Werk": Das urheberrechtlich geschützte Werk sowie jeder sonstige,
@@ -198,7 +198,7 @@ für die Präsentation des Werkes eignet.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 (1) Wenn Sie das Werk unverändert nutzen, müssen Sie die Namensnennung
-von Urhebern - z. B. Urheber- oder Copyrightvermerke - in der
+von Urhebern - :abbr:`z. B.(zum Beispiel)` Urheber- oder Copyrightvermerke - in der
 vorgefundenen Art und Weise übernehmen. Gleiches gilt für die Nennung
 der Inhaber eines ausschließlichen Nutzungsrechts, sofern diese im
 Zusammenhang mit dem Werk genannt werden.
@@ -256,7 +256,7 @@ Lizenztext in beiden Sprachfassungen beifügen oder eine Quelle angeben,
 unter der der Lizenztext auf elektronischem Weg dauerhaft und in
 üblicher Weise in beiden Sprachfassungen abrufbar ist, bevorzugt durch
 Download aus dem
-`Internet <resolveuid/973b60efcef64fa7b710ad63f289a5dc>`__.
+`Internet <https://lizenzen.hbz-nrw.de/>`__.
 
 (2) Hinweise auf diese Lizenz, die der Urheber oder der Inhaber eines
 ausschließlichen Nutzungsrechts dem Werk hinzugefügt hat, dürfen Sie
@@ -345,7 +345,7 @@ Zwecks des Lizenzvertrags am besten miteinander in Einklang bringt.
 Das Ministerium für Wissenschaft und Forschung Nordrhein-Westfalen kann
 mit verbindlicher Wirkung neue Versionen des Lizenzvertrags in Kraft
 setzen, soweit dies erforderlich und zumutbar ist. Neue Versionen des
-Lizenzvertrags werden auf der Internetseite http://www.dipp.nrw.de mit
+Lizenzvertrags werden auf der Internetseite https://lizenzen.hbz-nrw.de/ mit
 einer eindeutigen Versionsnummer veröffentlicht. Die neue Version des
 Lizenzvertrags erlangt für Sie verbindliche Wirkung, wenn Sie von deren
 Veröffentlichung Kenntnis genommen haben. Gesetzliche Rechtsbehelfe
@@ -367,7 +367,6 @@ Um jedermann den Abschluss dieses Lizenzvertrages zu ermöglichen, wird
 empfohlen, das Werk mit folgendem Hinweis auf den Lizenzvertrag zu
 versehen:
 
-"Jedermann darf dieses Werk unter den Bedingungen der Freien DiPP Lizenz
-unverändert oder verändert verbreiten und zum Download bereitstellen.
-Der Lizenztext ist im
-I\ `nternet <resolveuid/8796c314291b734b1c9785e6240ec446>`__ abrufbar.
+    "Jedermann darf dieses Werk unter den Bedingungen der Freien DiPP Lizenz
+    unverändert oder verändert verbreiten und zum Download bereitstellen.
+    Der Lizenztext ist im `Internet <https://lizenzen.hbz-nrw.de/f-dppl/1.0/de>`__ abrufbar.

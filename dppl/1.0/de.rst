@@ -11,7 +11,7 @@ Copyright © 2004 Ministerium für Wissenschaft und Forschung des Landes
 Nordrhein-Westfalen
 
 Erstellt von Axel Metzger und Till Jaeger, Institut für Rechtfragen der
-Freien und Open Source Software, https://www.ifross.de
+Freien und Open Source Software, https://www.ifross.org
 
 Präambel
 --------
@@ -103,7 +103,7 @@ an dem Werk, die den Abschluss dieses Lizenzvertrages anbieten.
 (d) "Metadaten": Maschinenlesbare, struktur­ierte Informationen über das
 Werk, die in diesem enthalten sind und die der verein­fachten
 maschinellen Auffindbarkeit des Werkes und/oder einer effizienten
-Verwaltung von Datenbeständen dienen (:abbr:`:abbr:`z. B.(zum Beispiel)`(zum Beispiel)` "HTML-Metatags").
+Verwaltung von Datenbeständen dienen :abbr:`z. B. (zum Beispiel)` "HTML-Metatags").
 
 (e) "Metadatenmodell": Eine standardisierte Struktur für die Erfassung
 von Metadaten mit definierten Elementen zur Ressourcen­beschreibung (z.
