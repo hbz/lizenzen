@@ -41,19 +41,19 @@ freigegeben wird. Die freie DPPL erlaubt dies für die gesamte Veröffentlichung
 
 
 
-============== ==============================  ===============================  ==============================
-Veröffentlicht DPPL                            m-DPPL                           f-DPPL 
-============== ==============================  ===============================  ==============================
-November 2008  :ref:`Version 3 <dppl_v3_de>`   :ref:`Version 3 <mdppl_v3_de>`   :ref:`Version 3 <fdppl_v3_de>`
-Juni 2004      :ref:`Version 2 <dppl_v2_de>`
-Februar 2004   :ref:`Version 1 <dppl_v1_de>`   :ref:`Version 1 <mdppl_v1_de>`   :ref:`Version 1 <fdppl_v1_de>`
-============== ==============================  ===============================  ==============================
+==================== =============================================== =================================================== ====================================================
+Veröffentlicht       DPPL                                             m-DPPL                                             f-DPPL 
+==================== =============================================== =================================================== ====================================================
+Version 3, Nov. 2008 :doc:`de <dppl/3.0/de>`/:doc:`en <dppl/3.0/en>` :doc:`de <m-dppl/3.0/de>`/:doc:`en <m-dppl/3.0/en>` :doc:`de <f-dppl/3.0/de>`/:doc:`en <f-dppl/3.0/en>`
+Version 2, Juni 2004 :doc:`de <dppl/2.0/de>`/:doc:`en <dppl/2.0/en>`
+Version 1, Feb. 2004 :doc:`de <dppl/1.0/de>`                         :doc:`de <m-dppl/1.0/de>`                           :doc:`de <f-dppl/1.0/de>`
+==================== =============================================== =================================================== ====================================================
 
 Frequently Asked Questions:
 
-* :ref:`faq_dppl_v2`
-* :ref:`faq_dppl_v3`
-* :ref:`faq_bildrechte`
+* :doc:`faq/faqs-zur-dppl-version-2`
+* :doc:`faq/faqs-zur-dppl-version-3`
+* :doc:`faq/bildrechte`
 
 Deutsche Freie Software Lizenz
 ==============================
@@ -70,8 +70,8 @@ Die d-fsl wurde von Axel Metzger und Till Jaeger vom Institut für Rechtsfragen 
 Die d-fsl steht für die unveränderte Nutzung durch jedermann zur Verfügung,
 der sie für die Freigabe seiner Software benutzen möchte.
 
-* :ref:`Deutsche Sprachversion <dfsl_de>`
-* :ref:`Englische Sprachversion <dfsl_en>`
+* :doc:`Deutsche Sprachversion <dfsl/de>`
+* :doc:`Englische Sprachversion <dfsl/en>`
 
 
 .. _ifrOSS: https://www.ifross.org/
