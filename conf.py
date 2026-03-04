@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Lizenzen'
-copyright = '2025, Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz)'
+copyright = '2026, Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz)'
 author = 'Peter Reimer'
 
 # -- General configuration ---------------------------------------------------
