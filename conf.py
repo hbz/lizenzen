@@ -1,3 +1,4 @@
+from datetime import datetime
 # Configuration file for the Sphinx documentation builder.
 #
 # For the full list of built-in configuration values, see the documentation:
@@ -7,17 +8,16 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Lizenzen'
-copyright = '2026, Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz)'
+#copyright = '2026, Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz)'
 author = 'Peter Reimer'
+copyright = f"{datetime.now().year}, Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (hbz)"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 
 
-extensions = [
-  "sphinx_rtd_theme",
-]
+extensions = []
 
 templates_path = ['_templates']
 exclude_patterns = ['_venv', '_build', 'Thumbs.db', '.DS_Store', 'README.rst']

@@ -3,7 +3,7 @@
 Freie Digital Peer Publishing Lizenz (v1, de)
 =============================================
 
-HTML Version der freien Digital Peer Publishing Lizenz (Version 1, Deutsch) 
+HTML Version der freien Digital Peer Publishing Lizenz (Version 1, Deutsch)
 
 Version 1.0 -- November 2004
 
