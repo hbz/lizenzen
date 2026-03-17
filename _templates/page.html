@@ -4,14 +4,10 @@
 {{ super() }}
 {% include "partials/icons.html" %}
 
-<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation">
-<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc">
-<label class="overlay sidebar-overlay" for="__navigation">
-  <div class="visually-hidden">Hide navigation sidebar</div>
-</label>
-<label class="overlay toc-overlay" for="__toc">
-  <div class="visually-hidden">Hide table of contents sidebar</div>
-</label>
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle site navigation sidebar">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc" aria-label="Toggle table of contents sidebar">
+<label class="overlay sidebar-overlay" for="__navigation"></label>
+<label class="overlay toc-overlay" for="__toc"></label>
 
 <a class="skip-to-content muted-link" href="#furo-main-content">
   {%- trans -%}
@@ -31,8 +27,7 @@
   <header class="mobile-header">
     <div class="header-left">
       <label class="nav-overlay-icon" for="__navigation">
-        <div class="visually-hidden">Toggle site navigation sidebar</div>
-        <i class="icon"><svg><use href="#svg-menu"></use></svg></i>
+        <span class="icon"><svg><use href="#svg-menu"></use></svg></span>
       </label>
     </div>
     <div class="header-center">
@@ -40,8 +35,7 @@
     </div>
     <div class="header-right">
       <div class="theme-toggle-container theme-toggle-header">
-        <button class="theme-toggle">
-          <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+        <button class="theme-toggle" aria-label="Toggle Light / Dark / Auto color theme">
           <svg class="theme-icon-when-auto-light"><use href="#svg-sun-with-moon"></use></svg>
           <svg class="theme-icon-when-auto-dark"><use href="#svg-moon-with-sun"></use></svg>
           <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
@@ -49,8 +43,7 @@
         </button>
       </div>
       <label class="toc-overlay-icon toc-header-icon{% if furo_hide_toc %} no-toc{% endif %}" for="__toc">
-        <div class="visually-hidden">Toggle table of contents sidebar</div>
-        <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+        <span class="icon"><svg><use href="#svg-toc"></use></svg></span>
       </label>
     </div>
   </header>
@@ -103,8 +96,7 @@
           {%- endfor -%}
           {#- Theme toggle -#}
           <div class="theme-toggle-container theme-toggle-content">
-            <button class="theme-toggle">
-              <div class="visually-hidden">Toggle Light / Dark / Auto color theme</div>
+            <button class="theme-toggle" aria-label="Toggle Light / Dark / Auto color theme">
               <svg class="theme-icon-when-auto-light"><use href="#svg-sun-with-moon"></use></svg>
               <svg class="theme-icon-when-auto-dark"><use href="#svg-moon-with-sun"></use></svg>
               <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
@@ -112,8 +104,7 @@
             </button>
           </div>
           <label class="toc-overlay-icon toc-content-icon{% if furo_hide_toc %} no-toc{% endif %}" for="__toc">
-            <div class="visually-hidden">Toggle table of contents sidebar</div>
-            <i class="icon"><svg><use href="#svg-toc"></use></svg></i>
+            <span class="icon"><svg><use href="#svg-toc"></use></svg></span>
           </label>
         </div>
         <article role="main" id="furo-main-content">
@@ -173,6 +164,12 @@
             {% trans %}
             <a href="https://github.com/pradyunsg/furo">Furo</a>
             {% endtrans %}
+            <div class="hbz-links">
+              <ul>
+                <li><a href="https://www.hbz-nrw.de/impressum">Impressum</a></li>
+                <li><a href="https://www.hbz-nrw.de/datenschutz">Datenschutz</a></li>
+              </ul>
+            </div>
             {%- if last_updated -%}
             <div class="last-updated">
               {% trans last_updated=last_updated|e -%}
@@ -181,10 +178,7 @@
             </div>
             {%- endif %}
           </div>
-          <div class="left-details">
-              <a href="https://www.hbz-nrw.de/impressum">Impressum</a>
-              <a href="https://www.hbz-nrw.de/datenschutz">Datenschutz</a>
-          </div>
+
           <div class="right-details">
             {% if theme_footer_icons or READTHEDOCS -%}
             <div class="icons">
@@ -204,6 +198,7 @@
               </a>
               {%- endif -%}
               {#- Show GitHub repository home -#}
+              
               {%- if READTHEDOCS and display_github and github_user != "None" and github_repo != "None" -%}
               <a class="muted-link" href="https://github.com/{{ github_user }}/{{ github_repo }}" aria-label="On GitHub">
                 <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 16 16">
@@ -239,4 +234,23 @@
     </aside>
   </div>
 </div>
+  <!-- Matomo -->
+	<script>
+	  var _paq = window._paq = window._paq || [];
+	  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+	  _paq.push(['trackPageView']);
+	  _paq.push(['enableLinkTracking']);
+	  (function() {
+	    var u="{{ analytics_url }}";
+	    _paq.push(['setTrackerUrl', u+'matomo.php']);
+	    _paq.push(['setSiteId', '{{ analytics_siteid }}']);
+	    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+	    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+	  })();
+	</script>
+	<noscript>
+	<!-- Matomo Image Tracker-->
+	  <img referrerpolicy="no-referrer-when-downgrade" src="<?= ($config->analytics->url)?>/matomo.php?idsite=<?= ($config->analytics->siteid)?>&amp;rec=1" style="border:0" alt="" />
+	</noscript>
+	<!-- End Matomo Code -->
 {%- endblock %}
