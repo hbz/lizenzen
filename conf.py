@@ -30,14 +30,17 @@ language = 'de'
 html_title = "Lizenzen"
 html_theme = 'furo'
 html_static_path = ['_static']
-html_extra_path = ['_extra']
+#html_extra_path = ['_extra']
 html_logo = "hbz-Logo-rgb-ohne-Claim.svg"
 html_css_files = [
   'css/custom.css',
   'https://fonts.pubsys.hbz-nrw.de/wix-madefor-text/v16/css/wix-madefor-text.css'
 ]
+# Matomo Webstatistics
+# wichtig: schließendes "/" bei der url
+
 html_context = {
-    "analytics_url": "https://analytics.hbz-nrw.de",
+    "analytics_url": "https://analytics.hbz-nrw.de/",
     "analytics_siteid": "42"
 }
 html_theme_options = {
