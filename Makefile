@@ -20,4 +20,4 @@ help:
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
 publish:
-	rsync -av -e ssh _build/dirhtml/ ojs:/srv/www/lizenzen.hbz-nrw.de/
+	rsync -av --delete --stats -e ssh _build/dirhtml/ ojs:/srv/www/lizenzen.hbz-nrw.de/
