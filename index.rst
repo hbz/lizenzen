@@ -32,12 +32,12 @@ werden durch die Lizenz nicht erfasst. Dadurch soll zum einen die elektronische 
 zum anderen besteht für den Rechtsinhaber die Möglichkeit, die Rechte zum körperlichen Vertrieb von
 Werkexemplaren einem Dritten, etwa einem Verlag, einzuräumen.
 
-Die beiden Ausbaustufen der DPPL, die :ref:`"modulare DPPL"<m-dppl>` und die :ref:`"freie DPPL"<f-dppl>`, gehen über die Basisversion der
-DPPL hinaus, indem sie Nutzern auch eine Veränderung der Materialien ermöglichen. Dies unterstützt das
+Die beiden Ausbaustufen der :abbr:`DPPL(Digital Peer Publishing Lizenz)`, die :ref:`"modulare DPPL"<m-dppl>` und die :ref:`"freie DPPL"<f-dppl>`, gehen über die Basisversion der
+:abbr:`DPPL(Digital Peer Publishing Lizenz)` hinaus, indem sie Nutzern auch eine Veränderung der Materialien ermöglichen. Dies unterstützt das
 verteilte Arbeiten und die Wiederverwendung von Materialien. Die Lizenzen regeln wie im Falle der Veränderung
-zitiert werden soll. Die modulare DPPL erlaubt die Veränderung der Materialien nur an vom Autor freigegebenen
+zitiert werden soll. Die modulare :abbr:`DPPL(Digital Peer Publishing Lizenz)` erlaubt die Veränderung der Materialien nur an vom Autor freigegebenen
 Teilen der Veröffentlichung. Beispielsweise kann ein Text unveränderbar sein, während ein Bild zur Änderung
-freigegeben wird. Die freie DPPL erlaubt dies für die gesamte Veröffentlichung.
+freigegeben wird. Die freie :abbr:`DPPL(Digital Peer Publishing Lizenz)` erlaubt dies für die gesamte Veröffentlichung.
 
 
 
@@ -58,16 +58,16 @@ Frequently Asked Questions:
 Deutsche Freie Software Lizenz
 ==============================
 
-Die d-fsl ist eine GPL-kompatible Open Source Lizenz. Sie ist auf das deutsche und europäische Recht
+Die :abbr:`d-fsl(Deutsche Freie Software Lizenz)` ist eine :abbr:`GPL(GNU General Public License)`-kompatible Open Source Lizenz. Sie ist auf das deutsche und europäische Recht
 zugeschnitten und unterscheidet sich dadurch von den bisherigen freien Software Lizenzen.
-Die d-fsl ist in deutscher und englischer Sprache verfasst. Sie ist in beiden Versionen verbindlich
+Die :abbr:`d-fsl(Deutsche Freie Software Lizenz)` ist in deutscher und englischer Sprache verfasst. Sie ist in beiden Versionen verbindlich
 und damit auch für den internationalen Gebrauch geeignet.
 
 
-Die d-fsl wurde von Axel Metzger und Till Jaeger vom Institut für Rechtsfragen der Freien und Open Source Software
+Die :abbr:`d-fsl(Deutsche Freie Software Lizenz)` wurde von Axel Metzger und Till Jaeger vom Institut für Rechtsfragen der Freien und Open Source Software
 (`ifrOSS`_) für das `Wissenschaftsministerium`_ des Landes Nordrhein-Westfalen verfasst.
 
-Die d-fsl steht für die unveränderte Nutzung durch jedermann zur Verfügung,
+Die :abbr:`d-fsl(Deutsche Freie Software Lizenz)` steht für die unveränderte Nutzung durch jedermann zur Verfügung,
 der sie für die Freigabe seiner Software benutzen möchte.
 
 * :doc:`Deutsche Sprachversion <dfsl/de>`
