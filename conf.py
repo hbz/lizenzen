@@ -30,7 +30,7 @@ language = 'de'
 html_title = "Lizenzen"
 html_theme = 'furo'
 html_static_path = ['_static']
-#html_extra_path = ['_extra']
+html_extra_path = ['_extra']
 html_logo = "hbz-Logo-rgb-ohne-Claim.svg"
 html_css_files = [
   'css/custom.css',
